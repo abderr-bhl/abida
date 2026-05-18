@@ -13,7 +13,7 @@ export default function Home() {
         <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl dark:text-gray-400">
           We review, compare, and guide you through the best products on Amazon and beyond. Make winning choices for your needs.
         </p>
-        <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
+        <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8 gap-4">
           <div className="rounded-md shadow">
             <Link
               href="/guides"
@@ -22,12 +22,20 @@ export default function Home() {
               Read Our Guides
             </Link>
           </div>
+          <div className="rounded-md shadow mt-3 sm:mt-0">
+             <Link
+              href="/admin/tasks"
+              className="w-full flex items-center justify-center px-8 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10 dark:bg-gray-800 dark:text-white dark:border-gray-700"
+            >
+              Market Intelligence
+            </Link>
+          </div>
         </div>
       </section>
 
       {/* Featured Guides */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-end mb-8">
+        <div className="flex justify-between items-end mb-8 border-b border-gray-100 pb-4 dark:border-gray-800">
           <div>
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white">Featured Buyer&apos;s Guides</h2>
             <p className="mt-2 text-gray-600 dark:text-gray-400">Expert advice on choosing the right products.</p>
@@ -36,15 +44,15 @@ export default function Home() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {guides.map((guide) => (
-            <div key={guide.id} className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow dark:border-gray-800">
+            <div key={guide.id} className="group border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-lg transition-all dark:border-gray-800">
               <div className="p-6">
                 <span className="text-xs font-semibold text-primary uppercase tracking-wider">{guide.category}</span>
-                <h3 className="mt-2 text-xl font-bold text-gray-900 dark:text-white">
-                  <Link href={`/guides/${guide.slug}`} className="hover:text-primary transition-colors">
+                <h3 className="mt-2 text-xl font-bold text-gray-900 dark:text-white group-hover:text-primary transition-colors">
+                  <Link href={`/guides/${guide.slug}`}>
                     {guide.title}
                   </Link>
                 </h3>
-                <p className="mt-3 text-gray-600 dark:text-gray-400">{guide.excerpt}</p>
+                <p className="mt-3 text-gray-600 dark:text-gray-400 line-clamp-3">{guide.excerpt}</p>
                 <Link href={`/guides/${guide.slug}`} className="mt-4 inline-block text-sm font-medium text-primary hover:underline">
                   Read more
                 </Link>
@@ -63,7 +71,7 @@ export default function Home() {
               <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Winning Comparisons</h2>
               <div className="space-y-6">
                 {comparisons.map((comp) => (
-                  <div key={comp.id} className="bg-white p-6 rounded-lg shadow-sm border border-gray-100 dark:bg-gray-900 dark:border-gray-800">
+                  <div key={comp.id} className="bg-white p-6 rounded-lg shadow-sm border border-gray-100 dark:bg-gray-900 dark:border-gray-800 hover:border-primary transition-colors">
                     <h3 className="text-lg font-bold text-gray-900 dark:text-white">
                       <Link href={`/comparisons/${comp.slug}`} className="hover:text-primary">
                         {comp.title}
@@ -80,10 +88,10 @@ export default function Home() {
               <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">Latest News</h2>
               <div className="space-y-6">
                 {newsPosts.map((post) => (
-                  <div key={post.id} className="flex gap-4">
+                  <div key={post.id} className="flex gap-4 group">
                     <div className="flex-shrink-0 w-24 h-24 relative rounded-md overflow-hidden bg-gray-200">
                       <div
-                        className="absolute inset-0 bg-cover bg-center"
+                        className="absolute inset-0 bg-cover bg-center group-hover:scale-105 transition-transform duration-300"
                         style={{ backgroundImage: `url(${post.imageUrl})` }}
                       ></div>
                     </div>
