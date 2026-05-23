@@ -55,3 +55,20 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export interface Task {
+  id: string;
+  type: 'CONTENT_GAP' | 'PRICE_UPDATE' | 'NEW_PRODUCT';
+  title: string;
+  description: string;
+  competitorUrl: string;
+  status: 'PENDING' | 'IN_PROGRESS' | 'COMPLETED';
+  priority: 'LOW' | 'MEDIUM' | 'HIGH';
+  createdAt: string;
+}
+
+export interface BenchmarkRecord {
+  competitor: string;
+  lastChecked: string;
+  latestArticleTitle: string;
+}
