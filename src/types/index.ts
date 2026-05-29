@@ -55,3 +55,27 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export type TaskStatus = 'todo' | 'in-progress' | 'completed';
+export type TaskPriority = 'low' | 'medium' | 'high';
+
+export interface Task {
+  id: string;
+  title: string;
+  description: string;
+  type: 'content' | 'update' | 'research';
+  status: TaskStatus;
+  priority: TaskPriority;
+  competitorUrl?: string;
+  createdAt: string;
+}
+
+export interface BenchmarkRecord {
+  id: string;
+  competitor: string;
+  title: string;
+  url: string;
+  publishedDate: string;
+  category: string;
+  identifiedAt: string;
+}
