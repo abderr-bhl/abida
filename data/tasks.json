@@ -1,0 +1,102 @@
+[
+  {
+    "id": "878367c6-50b3-4a71-b4b4-68e21c4cce5b",
+    "title": "Analyze: The Beginner’s Guide To Retinol Products",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20260602-retinol-products/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "guide",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "1c8acd1e-bfb8-43e0-bff0-264dcb85ae0d",
+    "title": "Analyze: Our Favorite Summer Pajamas for Kids",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-kids-summer-pajamas/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "news",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "8976a582-acbc-42cf-92ad-10e90e5b441f",
+    "title": "Analyze: The Best Automatic Cat Litter Box",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-automatic-cat-litter-box/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "guide",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "e1cf3b5a-e62c-45a8-88e1-ca2f2066947c",
+    "title": "Analyze: The Best Kids Lunch Boxes",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-kids-lunch-boxes/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "guide",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "5e662b20-daa5-4a97-9695-6faee27a18a4",
+    "title": "Analyze: The Best Camping Stove",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-picnic-table-camp-stove/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "guide",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "52d2725b-1420-4c0a-9aec-b88efd129b1a",
+    "title": "Analyze: The Best Conditioner for Different Hair Types",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-hair-conditioner/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "guide",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "2310656c-33ac-44e9-beed-39839c2101c3",
+    "title": "Analyze: We Found the Optimal Way to Pack for a 3-Day Trip With Just a ‘Personal Item’",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/guides/budget-airline-packing-hack-backpack-personal-item/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "news",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "97c46f19-77ce-4b76-82d3-e3d036da57d5",
+    "title": "Analyze: The Best Portable Bluetooth Speaker",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-bluetooth-speaker/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "guide",
+    "createdAt": "2026-06-02T13:03:05.244Z"
+  },
+  {
+    "id": "e807fd68-8b38-44d5-8bfa-2e7dfd826dfe",
+    "title": "Analyze: How to Choose the Best Running Shoes for You",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-running-shoes/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "guide",
+    "createdAt": "2026-06-02T13:03:05.245Z"
+  },
+  {
+    "id": "38f78ebd-2d9f-4a20-a03f-5e989ff9c6a8",
+    "title": "Analyze: So You Stained Your Shirt. Now What?",
+    "description": "Review competitor content from Wirecutter and identify opportunities for ReviewGuid.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/shirt-stain-removal/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "type": "news",
+    "createdAt": "2026-06-02T13:03:05.245Z"
+  }
+]
