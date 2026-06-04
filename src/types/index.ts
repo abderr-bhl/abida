@@ -55,3 +55,23 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export interface Task {
+  id: string;
+  title: string;
+  description: string;
+  sourceUrl: string;
+  competitor: 'Wirecutter' | 'RTINGS';
+  status: 'pending' | 'completed' | 'ignored';
+  priority: 'low' | 'medium' | 'high';
+  createdAt: string;
+}
+
+export interface BenchmarkRecord {
+  id: string;
+  url: string;
+  title: string;
+  competitor: 'Wirecutter' | 'RTINGS';
+  publishedAt: string;
+  processedAt: string;
+}
