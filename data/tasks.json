@@ -1,0 +1,12 @@
+[
+  {
+    "id": "test-task-1",
+    "title": "Analyze competitor: Best Laptops 2024",
+    "description": "A new article was published on Wirecutter. Evaluate if we need to update our content.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-laptops/",
+    "status": "in-progress",
+    "priority": "high",
+    "createdAt": "2024-05-20T10:00:00.000Z",
+    "type": "guide"
+  }
+]
