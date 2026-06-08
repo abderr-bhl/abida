@@ -55,3 +55,20 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export interface Task {
+  id: string;
+  title: string;
+  description: string;
+  sourceUrl: string;
+  status: 'pending' | 'completed' | 'ignored';
+  createdAt: string;
+  type: 'review' | 'guide' | 'comparison' | 'news';
+}
+
+export interface BenchmarkRecord {
+  id: string;
+  competitor: string;
+  lastChecked: string;
+  lastArticleUrl: string;
+}
