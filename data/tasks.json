@@ -1,0 +1,92 @@
+[
+  {
+    "id": "f9b4e70d-f52e-49d3-bbf0-27eb6250538b",
+    "title": "Analyze and respond to: Your Headphone Questions, Answered",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20260608-headphones-recommendations/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "in-progress",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.677Z"
+  },
+  {
+    "id": "c1e31d92-7c6c-410a-ad7b-42cbd1e78a8e",
+    "title": "Analyze and respond to: The Oura Ring 4 Can Tell You How You Slept or Predict a Cold. Is It Worth It?",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/oura-ring-sleep-tracker/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.678Z"
+  },
+  {
+    "id": "aa3e9d7b-92c6-445e-9716-df8fc47b5adf",
+    "title": "Analyze and respond to: 13 of Our Favorite Father’s Day Gifts Are on Sale Right Now",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/fathers-day-gift-deals-20260608/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.679Z"
+  },
+  {
+    "id": "7e8bb3f9-516c-435d-ba0f-9edf9c60b97d",
+    "title": "Analyze and respond to: The Best Car-Camping Gear for Wheelchair Users",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-car-camping-gear-for-wheelchair-users/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.679Z"
+  },
+  {
+    "id": "33e2675b-e734-4327-b063-381580bd8092",
+    "title": "Analyze and respond to: The Best Electric Razor",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-electric-razor/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.680Z"
+  },
+  {
+    "id": "5b1e7cca-7308-45af-84b0-3bd6aa56f43e",
+    "title": "Analyze and respond to: The Best Beard Trimmer",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-beard-trimmer/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.680Z"
+  },
+  {
+    "id": "b1eb4809-d130-41d8-8e0e-92f33ef3f2f5",
+    "title": "Analyze and respond to: The Best Diaper Bags",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-diaper-bag/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.681Z"
+  },
+  {
+    "id": "01af2c51-9167-48b6-8241-6c50e8106f23",
+    "title": "Analyze and respond to: The Best Pressure Washer",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-pressure-washer/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.681Z"
+  },
+  {
+    "id": "9da2db46-05c3-4965-b977-f336a7ce8045",
+    "title": "Analyze and respond to: The Best Utility Pumps for Flooding",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-utility-pumps/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.682Z"
+  },
+  {
+    "id": "97720a50-0c43-4c29-a381-7b35c0ee22cc",
+    "title": "Analyze and respond to: The Best Wireless Bluetooth Earbuds",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-earbuds/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-09T12:50:39.682Z"
+  }
+]
