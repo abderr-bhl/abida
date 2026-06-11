@@ -45,6 +45,25 @@ export interface Comparison {
   date: string;
 }
 
+export interface Task {
+  id: string;
+  title: string;
+  sourceUrl: string;
+  competitor: 'Wirecutter' | 'RTINGS';
+  status: 'pending' | 'in-progress' | 'completed';
+  createdAt: string;
+  priority: 'low' | 'medium' | 'high';
+  type: 'review' | 'guide' | 'news';
+}
+
+export interface BenchmarkRecord {
+  id: string;
+  timestamp: string;
+  source: string;
+  articleTitle: string;
+  articleUrl: string;
+}
+
 export interface NewsPost {
   id: string;
   slug: string;
