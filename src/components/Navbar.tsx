@@ -36,6 +36,12 @@ export default function Navbar() {
               >
                 Reviews
               </Link>
+              <Link
+                href="/admin/tasks"
+                className="border-transparent text-indigo-600 hover:border-indigo-300 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-bold"
+              >
+                Admin
+              </Link>
             </div>
           </div>
           <div className="hidden sm:ml-6 sm:flex sm:items-center">
