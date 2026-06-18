@@ -2,6 +2,7 @@ import { guides, products } from '@/lib/mockData';
 import { notFound } from 'next/navigation';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
+import TopPickBadge from '@/components/TopPickBadge';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -25,8 +26,8 @@ export default async function GuideDetailPage({ params }: Props) {
         <p className="text-gray-500">{guide.date} • By {guide.author}</p>
       </header>
 
-      <div className="prose prose-lg dark:prose-invert max-w-none mb-16">
-        <p className="text-xl font-medium text-gray-700 dark:text-gray-300 mb-8 italic">
+      <div className="prose prose-slate lg:prose-xl dark:prose-invert max-w-none mb-16">
+        <p className="lead text-xl font-medium text-gray-700 dark:text-gray-300 mb-8 italic">
           &quot;{guide.excerpt}&quot;
         </p>
         <div className="text-gray-800 dark:text-gray-200">
@@ -34,7 +35,7 @@ export default async function GuideDetailPage({ params }: Props) {
           <p className="mt-4">
             Choosing the right product requires understanding your specific needs. In this guide, we break down the key factors to consider.
           </p>
-          <h2 className="text-2xl font-bold mt-8 mb-4">Key Considerations</h2>
+          <h2>Key Considerations</h2>
           <ul>
             <li>Performance and reliability</li>
             <li>Value for money</li>
@@ -45,10 +46,15 @@ export default async function GuideDetailPage({ params }: Props) {
       </div>
 
       <section className="bg-gray-50 dark:bg-gray-900 rounded-2xl p-8 border border-gray-200 dark:border-gray-800">
-        <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-8">Top Recommendations</h2>
-        <div className="space-y-8">
-          {recommendedProducts.map(product => (
-            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center">
+        <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-8 border-b-2 border-primary inline-block">Top Recommendations</h2>
+        <div className="space-y-12 mt-8">
+          {recommendedProducts.map((product, index) => (
+            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm border border-gray-100 dark:border-gray-700 flex flex-col md:flex-row gap-8 items-start relative">
+              {index === 0 && (
+                <div className="absolute -top-4 -left-4">
+                  <TopPickBadge />
+                </div>
+              )}
               <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden">
                 <div
                   className="absolute inset-0 bg-cover bg-center"
