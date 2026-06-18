@@ -55,3 +55,28 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export type TaskStatus = 'pending' | 'in_progress' | 'completed' | 'archived';
+export type TaskPriority = 'low' | 'medium' | 'high';
+
+export interface Task {
+  id: string;
+  title: string;
+  description: string;
+  status: TaskStatus;
+  priority: TaskPriority;
+  category: 'guide' | 'review' | 'comparison' | 'news';
+  sourceUrl?: string;
+  competitor: 'Wirecutter' | 'RTINGS' | 'Other';
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface BenchmarkRecord {
+  id: string;
+  url: string;
+  title: string;
+  competitor: 'Wirecutter' | 'RTINGS' | 'Other';
+  publishedAt: string;
+  scannedAt: string;
+}
