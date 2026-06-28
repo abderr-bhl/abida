@@ -21,6 +21,7 @@
   --color-secondary-foreground: var(--secondary-foreground);
   --color-accent: var(--accent);
   --color-accent-foreground: var(--accent-foreground);
+  --color-amazon-orange: #FF9900;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
