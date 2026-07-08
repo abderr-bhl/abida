@@ -8,7 +8,7 @@ export default function Home() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 sm:text-5xl md:text-6xl dark:text-white">
           <span className="block">Your Trusted Guide for</span>
-          <span className="block text-primary">Smart Purchases in USA</span>
+          <span className="block text-blue-600">Smart Purchases in USA</span>
         </h1>
         <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl dark:text-gray-400">
           We review, compare, and guide you through the best products on Amazon and beyond. Make winning choices for your needs.
@@ -17,7 +17,7 @@ export default function Home() {
           <div className="rounded-md shadow">
             <Link
               href="/guides"
-              className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-blue-700 md:py-4 md:text-lg md:px-10"
+              className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 md:py-4 md:text-lg md:px-10"
             >
               Read Our Guides
             </Link>
@@ -29,23 +29,23 @@ export default function Home() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-end mb-8">
           <div>
-            <h2 className="text-3xl font-bold text-gray-900 dark:text-white">Featured Buyer&apos;s Guides</h2>
-            <p className="mt-2 text-gray-600 dark:text-gray-400">Expert advice on choosing the right products.</p>
+            <h2 className="text-3xl font-bold text-gray-900 dark:text-white border-l-4 border-blue-600 pl-4">Featured Buyer&apos;s Guides</h2>
+            <p className="mt-2 text-gray-600 dark:text-gray-400 ml-5">Expert advice on choosing the right products.</p>
           </div>
-          <Link href="/guides" className="text-primary font-semibold hover:underline">View all guides →</Link>
+          <Link href="/guides" className="text-blue-600 font-semibold hover:underline">View all guides →</Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {guides.map((guide) => (
-            <div key={guide.id} className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow dark:border-gray-800">
+            <div key={guide.id} className="border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow dark:border-gray-800 bg-white dark:bg-gray-900">
               <div className="p-6">
-                <span className="text-xs font-semibold text-primary uppercase tracking-wider">{guide.category}</span>
+                <span className="text-xs font-semibold text-blue-600 uppercase tracking-wider">{guide.category}</span>
                 <h3 className="mt-2 text-xl font-bold text-gray-900 dark:text-white">
-                  <Link href={`/guides/${guide.slug}`} className="hover:text-primary transition-colors">
+                  <Link href={`/guides/${guide.slug}`} className="hover:text-blue-600 transition-colors">
                     {guide.title}
                   </Link>
                 </h3>
-                <p className="mt-3 text-gray-600 dark:text-gray-400">{guide.excerpt}</p>
-                <Link href={`/guides/${guide.slug}`} className="mt-4 inline-block text-sm font-medium text-primary hover:underline">
+                <p className="mt-3 text-gray-600 dark:text-gray-400 line-clamp-3">{guide.excerpt}</p>
+                <Link href={`/guides/${guide.slug}`} className="mt-4 inline-block text-sm font-medium text-blue-600 hover:underline">
                   Read more
                 </Link>
               </div>
@@ -65,7 +65,7 @@ export default function Home() {
                 {comparisons.map((comp) => (
                   <div key={comp.id} className="bg-white p-6 rounded-lg shadow-sm border border-gray-100 dark:bg-gray-900 dark:border-gray-800">
                     <h3 className="text-lg font-bold text-gray-900 dark:text-white">
-                      <Link href={`/comparisons/${comp.slug}`} className="hover:text-primary">
+                      <Link href={`/comparisons/${comp.slug}`} className="hover:text-blue-600">
                         {comp.title}
                       </Link>
                     </h3>
@@ -89,7 +89,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h3 className="text-lg font-bold text-gray-900 dark:text-white leading-tight">
-                        <Link href={`/blog/${post.slug}`} className="hover:text-primary">
+                        <Link href={`/blog/${post.slug}`} className="hover:text-blue-600">
                           {post.title}
                         </Link>
                       </h3>
