@@ -1,42 +1,56 @@
 @import "tailwindcss";
+
 @plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary: var(--color-blue-600);
+  --color-primary-dark: var(--color-blue-700);
+  --color-accent: var(--color-orange-500);
+
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
-  --primary: #2563eb;
-  --primary-foreground: #ffffff;
-  --secondary: #f3f4f6;
-  --secondary-foreground: #1f2937;
-  --accent: #f59e0b;
-  --accent-foreground: #ffffff;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --color-primary: var(--primary);
-  --color-primary-foreground: var(--primary-foreground);
-  --color-secondary: var(--secondary);
-  --color-secondary-foreground: var(--secondary-foreground);
-  --color-accent: var(--accent);
-  --color-accent-foreground: var(--accent-foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --foreground: #0f172a;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0f172a;
+    --background: #020617;
     --foreground: #f8fafc;
-    --primary: #3b82f6;
-    --secondary: #1e293b;
-    --secondary-foreground: #f1f5f9;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-sans), system-ui, sans-serif;
+  font-family: var(--font-sans);
+}
+
+/* Custom styles for professional US market look */
+.prose {
+  max-width: 65ch;
+  line-height: 1.75;
+}
+
+.prose h2 {
+  color: var(--color-blue-900);
+  font-weight: 800;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .prose h2 {
+    color: var(--color-blue-100);
+  }
+}
+
+.btn-amazon {
+  @apply bg-[#FF9900] text-gray-900 font-bold py-3 px-6 rounded-lg shadow-md hover:bg-[#FFAC33] transition-all flex items-center justify-center gap-2;
+}
+
+.card-guide {
+  @apply bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-xl overflow-hidden hover:shadow-xl transition-all duration-300;
 }
