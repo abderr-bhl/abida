@@ -1,0 +1,102 @@
+[
+  {
+    "id": "626271ed-052b-40a8-8c15-a61a7a31c9fd",
+    "title": "Review: Find Your Perfect Shampoo",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20260714-how-to-choose-shampoo/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "in-progress",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:57:12.820Z"
+  },
+  {
+    "id": "59bd3ab8-e3a0-4bd2-a55f-c8bcab1743aa",
+    "title": "Review: The Best Ice Cream Scoop",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/the-best-ice-cream-scoop/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "6297a827-5170-4189-aecd-94c7e3c4e21a",
+    "title": "Review: The Best Digital Notebooks",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-digital-notebooks/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "1907e5d9-a389-41ae-b009-1b6fa004411c",
+    "title": "Review: The Best Wine Coolers and Fridges",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wine-fridges/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "f9b39f7b-6bc0-42eb-9a7f-a6dbaaff08ec",
+    "title": "Review: The Best Dryers",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-dryers/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "a6e38fc9-4a80-4019-ae8e-832975ab3d77",
+    "title": "Review: The Best Wet Mop",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wet-mop/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "5e988bc1-db68-497f-94b0-2204c967ec10",
+    "title": "Review: The Best Vacuum for Hardwood Floors",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-vacuum-for-hardwood-floors/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "3c01c15b-8f0d-4abf-8ced-c47192d54544",
+    "title": "Review: The Best Vacuum for Carpets",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-vacuum-for-carpets/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "4efa87b5-7570-40e1-ad2d-ab1c59abbdf4",
+    "title": "Review: The Best Camping Tents",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-tent-for-family-and-car-camping/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  },
+  {
+    "id": "e48e4eab-4ce6-4a2e-8485-443864d1388d",
+    "title": "Review: The Best Luggage Tags",
+    "description": "Automated task based on Wirecutter's latest update.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-luggage-tags/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-14T12:53:55.843Z",
+    "updatedAt": "2026-07-14T12:53:55.843Z"
+  }
+]

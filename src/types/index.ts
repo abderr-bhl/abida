@@ -55,3 +55,21 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export type TaskStatus = 'pending' | 'in-progress' | 'completed' | 'cancelled';
+
+export interface Task {
+  id: string;
+  title: string;
+  description: string;
+  sourceUrl: string;
+  competitor: 'Wirecutter' | 'RTINGS';
+  status: TaskStatus;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface BenchmarkRecord {
+  lastRun: string;
+  newTasksFound: number;
+}
