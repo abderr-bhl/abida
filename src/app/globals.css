@@ -3,13 +3,13 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
-  --primary: #2563eb;
+  --foreground: #111827;
+  --primary: #0060df;
   --primary-foreground: #ffffff;
   --secondary: #f3f4f6;
   --secondary-foreground: #1f2937;
-  --accent: #f59e0b;
-  --accent-foreground: #ffffff;
+  --accent: #FF9900;
+  --accent-foreground: #111827;
 }
 
 @theme inline {
@@ -27,8 +27,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0f172a;
-    --foreground: #f8fafc;
+    --background: #0b0f1a;
+    --foreground: #f3f4f6;
     --primary: #3b82f6;
     --secondary: #1e293b;
     --secondary-foreground: #f1f5f9;
@@ -39,4 +39,10 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.prose {
+  --tw-prose-links: var(--primary);
 }

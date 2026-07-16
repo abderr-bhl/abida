@@ -1,0 +1,38 @@
+
+> temp-next@0.1.0 dev /app
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 553ms
+
+○ Compiling / ...
+ GET / 200 in 5.0s (next.js: 4.2s, application-code: 749ms)
+ GET /admin/login 200 in 786ms (next.js: 665ms, application-code: 120ms)
+ GET /admin/tasks 200 in 1230ms (next.js: 1110ms, application-code: 120ms)
+ POST /admin/login 303 in 1281ms (next.js: 4ms, application-code: 1277ms)
+  └─ ƒ loginAction(null, {}) in 5ms src/admin/login/actions.ts
+Fetching RSS for Wirecutter...
+Fetching RSS for RTINGS...
+Error processing RTINGS: Error: Status code 404
+    at ignore-listed frames
+ POST /admin/tasks 200 in 580ms (next.js: 4ms, application-code: 576ms)
+  └─ ƒ triggerBenchmark() in 443ms src/admin/tasks/actions.ts
+ GET /admin/tasks 200 in 51ms (next.js: 5ms, application-code: 46ms)
+ GET /guides/best-robot-vacuums-2023 200 in 1628ms (next.js: 1491ms, application-code: 137ms)
+✓ Compiled in 174ms
+ GET / 200 in 247ms (next.js: 62ms, application-code: 186ms)
+ GET /admin/login 200 in 133ms (next.js: 24ms, application-code: 109ms)
+ GET /admin/tasks 200 in 113ms (next.js: 31ms, application-code: 82ms)
+ POST /admin/login 303 in 147ms (next.js: 4ms, application-code: 144ms)
+  └─ ƒ loginAction(null, {}) in 2ms src/admin/login/actions.ts
+Fetching RSS for Wirecutter...
+Fetching RSS for RTINGS...
+Error processing RTINGS: Error: Status code 404
+    at ignore-listed frames
+ POST /admin/tasks 200 in 469ms (next.js: 5ms, application-code: 464ms)
+  └─ ƒ triggerBenchmark() in 381ms src/admin/tasks/actions.ts
+ GET /admin/tasks 200 in 137ms (next.js: 3ms, application-code: 134ms)
+ GET /guides/best-robot-vacuums-2023 200 in 202ms (next.js: 54ms, application-code: 148ms)
+✓ Compiled in 38ms
