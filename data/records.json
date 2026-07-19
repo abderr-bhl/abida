@@ -1,0 +1,9 @@
+[
+  {
+    "id": "f93f88dc-ef94-46ea-b120-1acba37cdd7c",
+    "runAt": "2026-07-19T12:49:59.736Z",
+    "status": "Warning",
+    "message": "Warning: RTINGS feed bypassed due to 404/failure. Created 10 new tasks.",
+    "tasksCreatedCount": 10
+  }
+]
