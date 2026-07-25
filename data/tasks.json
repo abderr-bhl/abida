@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fe5eee84-a772-4c90-b508-c2ff2db7a190",
+    "title": "Guide: The Best Bath Towel",
+    "description": "Analyze competitor article: \"The Best Bath Towel\". Source URL: https://www.nytimes.com/wirecutter/reviews/best-bath-towel/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-bath-towel/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "in_progress",
+    "createdAt": "2026-07-25T12:47:40.244Z",
+    "updatedAt": "2026-07-25T12:47:45.261Z"
+  },
+  {
+    "id": "7756c722-78fa-4714-bbb9-7ed0a6798cac",
+    "title": "Guide: The Best Robot Vacuum",
+    "description": "Analyze competitor article: \"The Best Robot Vacuum\". Source URL: https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "3aadaa0c-4acd-442b-bd97-ff36c34d75d3",
+    "title": "Guide: The Best Headphones",
+    "description": "Analyze competitor article: \"The Best Headphones\". Source URL: https://www.nytimes.com/wirecutter/reviews/best-headphones/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-headphones/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "5d409a13-de1e-47f9-8004-3b69393ad239",
+    "title": "Guide: The Best Accessible Beauty Tools and Makeup",
+    "description": "Analyze competitor article: \"The Best Accessible Beauty Tools and Makeup\". Source URL: https://www.nytimes.com/wirecutter/reviews/best-accessible-makeup/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-accessible-makeup/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "e05ffbd3-d304-4de2-9e30-fad483dd9fe1",
+    "title": "Guide: Ask Wirecutter: How Do I Keep My Pets Cool, Happy, and Safe This Summer?",
+    "description": "Analyze competitor article: \"Ask Wirecutter: How Do I Keep My Pets Cool, Happy, and Safe This Summer?\". Source URL: https://www.nytimes.com/wirecutter/reviews/ask-wirecutter-keep-pets-cool/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/ask-wirecutter-keep-pets-cool/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "26aa0742-fcc9-4d83-9691-95475a470cc1",
+    "title": "Guide: 11 Gifts for People Who Can’t Stand the Heat",
+    "description": "Analyze competitor article: \"11 Gifts for People Who Can’t Stand the Heat\". Source URL: https://www.nytimes.com/wirecutter/reviews/the-gift-gifts-for-sweaty-people-20260724/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/the-gift-gifts-for-sweaty-people-20260724/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "034aac79-0772-4880-91bf-044661e09ee1",
+    "title": "Guide: Nordstrom’s Anniversary Sale Is Back. And It’s Packed With Surprisingly Good Deals on Wirecutter Picks.",
+    "description": "Analyze competitor article: \"Nordstrom’s Anniversary Sale Is Back. And It’s Packed With Surprisingly Good Deals on Wirecutter Picks.\". Source URL: https://www.nytimes.com/wirecutter/money/nordstrom-anniversary-sale-deals-20260718/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/money/nordstrom-anniversary-sale-deals-20260718/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "5919f4b2-a5d8-412e-bfc3-d89e25e68520",
+    "title": "Guide: Back-to-School Hacks from Wirecutter Parents",
+    "description": "Analyze competitor article: \"Back-to-School Hacks from Wirecutter Parents\". Source URL: https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20260724-back-to-school-hacks/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20260724-back-to-school-hacks/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "aef04a91-6bb3-4909-8f79-9f8c40ee2adf",
+    "title": "Guide: We Tested All of the Skin-Care Products at Trader Joe’s. Some of Them Are Actually Great.",
+    "description": "Analyze competitor article: \"We Tested All of the Skin-Care Products at Trader Joe’s. Some of Them Are Actually Great.\". Source URL: https://www.nytimes.com/wirecutter/reviews/best-trader-joes-skin-care/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-trader-joes-skin-care/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  },
+  {
+    "id": "d74bc0a4-64ca-4472-a3ba-6a180b6fb63a",
+    "title": "Guide: This Cat Tree Is Worthy of Your Living Room. It’s Also Wildly Expensive.",
+    "description": "Analyze competitor article: \"This Cat Tree Is Worthy of Your Living Room. It’s Also Wildly Expensive.\". Source URL: https://www.nytimes.com/wirecutter/reviews/mau-cento-review/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/mau-cento-review/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "wirecutter",
+    "status": "pending",
+    "createdAt": "2026-07-25T12:47:40.245Z",
+    "updatedAt": "2026-07-25T12:47:40.245Z"
+  }
+]
