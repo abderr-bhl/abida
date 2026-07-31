@@ -1,0 +1,26 @@
+
+> temp-next@0.1.0 dev /app
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 529ms
+
+  Reload env: .env
+○ Compiling / ...
+ GET / 200 in 4.9s (next.js: 4.1s, application-code: 752ms)
+ GET /guides/best-robot-vacuums-2023 200 in 1886ms (next.js: 1680ms, application-code: 206ms)
+ GET /admin/tasks 307 in 1522ms (next.js: 1344ms, application-code: 178ms)
+ GET /admin/login 200 in 744ms (next.js: 620ms, application-code: 125ms)
+ POST /admin/login 200 in 66ms (next.js: 4ms, application-code: 62ms)
+  └─ ƒ loginAction({}, {}) in 4ms src/admin/login/actions.ts
+ GET /admin/tasks 200 in 56ms (next.js: 5ms, application-code: 51ms)
+Failed to fetch RTINGS RSS feed (expected/handled): Error: Status code 404
+    at ignore-listed frames
+ POST /admin/tasks 200 in 507ms (next.js: 6ms, application-code: 501ms)
+  └─ ƒ triggerBenchmarkAction() in 430ms src/admin/tasks/actions.ts
+ GET /admin/tasks 200 in 68ms (next.js: 3ms, application-code: 65ms)
+ POST /admin/tasks 200 in 71ms (next.js: 8ms, application-code: 62ms)
+  └─ ƒ updateTaskStatusAction("ca12f1f0-0766-4586-9fdd-74cc25e4ab95", "ignored") in 3ms src/admin/tasks/actions.ts
+ GET /admin/tasks 200 in 83ms (next.js: 5ms, application-code: 78ms)
