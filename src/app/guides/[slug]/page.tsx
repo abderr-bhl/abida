@@ -2,6 +2,7 @@ import { guides, products } from '@/lib/mockData';
 import { notFound } from 'next/navigation';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
+import TopPickBadge from '@/components/TopPickBadge';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -47,40 +48,46 @@ export default async function GuideDetailPage({ params }: Props) {
       <section className="bg-gray-50 dark:bg-gray-900 rounded-2xl p-8 border border-gray-200 dark:border-gray-800">
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-8">Top Recommendations</h2>
         <div className="space-y-8">
-          {recommendedProducts.map(product => (
-            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center">
-              <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden">
-                <div
-                  className="absolute inset-0 bg-cover bg-center"
-                  style={{ backgroundImage: `url(${product.imageUrl})` }}
-                ></div>
-              </div>
-              <div className="flex-grow">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">{product.name}</h3>
-                <div className="flex items-center mb-4">
-                   <span className="text-yellow-400 mr-1">★</span>
-                   <span className="text-sm font-medium text-gray-600 dark:text-gray-400">{product.rating} / 5.0</span>
-                   <span className="mx-2 text-gray-300">|</span>
-                   <span className="text-sm font-bold text-primary">${product.price}</span>
+          {recommendedProducts.map((product, index) => {
+            const isTopPick = index === 0;
+            return (
+              <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center border border-gray-100 dark:border-gray-700 relative">
+                <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden">
+                  <div
+                    className="absolute inset-0 bg-cover bg-center"
+                    style={{ backgroundImage: `url(${product.imageUrl})` }}
+                  ></div>
                 </div>
-                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
-                  <div>
-                    <h4 className="text-sm font-bold text-green-600 mb-1 uppercase tracking-tighter">Pros</h4>
-                    <ul className="text-sm space-y-1">
-                      {product.pros.map((pro, i) => <li key={i} className="text-gray-600 dark:text-gray-400">• {pro}</li>)}
-                    </ul>
+                <div className="flex-grow w-full">
+                  <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
+                    <h3 className="text-xl font-bold text-gray-900 dark:text-white">{product.name}</h3>
+                    {isTopPick && <TopPickBadge />}
                   </div>
-                  <div>
-                    <h4 className="text-sm font-bold text-red-600 mb-1 uppercase tracking-tighter">Cons</h4>
-                    <ul className="text-sm space-y-1">
-                      {product.cons.map((con, i) => <li key={i} className="text-gray-600 dark:text-gray-400">• {con}</li>)}
-                    </ul>
+                  <div className="flex items-center mb-4">
+                     <span className="text-yellow-400 mr-1">★</span>
+                     <span className="text-sm font-medium text-gray-600 dark:text-gray-400">{product.rating} / 5.0</span>
+                     <span className="mx-2 text-gray-300">|</span>
+                     <span className="text-sm font-bold text-primary">${product.price}</span>
                   </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
+                    <div>
+                      <h4 className="text-sm font-bold text-green-600 mb-1 uppercase tracking-tighter">Pros</h4>
+                      <ul className="text-sm space-y-1">
+                        {product.pros.map((pro, i) => <li key={i} className="text-gray-600 dark:text-gray-400">• {pro}</li>)}
+                      </ul>
+                    </div>
+                    <div>
+                      <h4 className="text-sm font-bold text-red-600 mb-1 uppercase tracking-tighter">Cons</h4>
+                      <ul className="text-sm space-y-1">
+                        {product.cons.map((con, i) => <li key={i} className="text-gray-600 dark:text-gray-400">• {con}</li>)}
+                      </ul>
+                    </div>
+                  </div>
+                  <AmazonButton url={product.amazonUrl} />
                 </div>
-                <AmazonButton url={product.amazonUrl} />
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </section>
 
