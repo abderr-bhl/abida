@@ -1,0 +1,112 @@
+[
+  {
+    "id": "35316bd3-4386-40ee-9186-413f08a84d20",
+    "title": "Review: How to Shop for a Hot Tub",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"How to Shop for a Hot Tub\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/guides/how-to-shop-for-hot-tub/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "medium",
+    "action": "Generate Article"
+  },
+  {
+    "id": "a5dcd063-d476-4fc2-957e-e7ece97085b1",
+    "title": "Review: The Best Pet Subscription Boxes",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Pet Subscription Boxes\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-pet-subscription-boxes/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "a3ddfd48-1601-4ada-8f5b-89faa8c39272",
+    "title": "Review: The Best Fish Tank, Heater, Light, and Accessories",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Fish Tank, Heater, Light, and Accessories\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-fish-tank/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "b3c3f921-416f-41e3-b0c5-eb98170b97db",
+    "title": "Review: The Best Chicken Coop and Accessories",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Chicken Coop and Accessories\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/guides/best-chicken-coops/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "699b4e47-e2f5-4ff9-8691-d43a5c1116e1",
+    "title": "Review: The Best Combination Square",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Combination Square\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-combination-square/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "bcc14201-43f8-4871-960e-a0041380c4a4",
+    "title": "Review: The Best Android Phones",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Android Phones\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-android-phone/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "ee4272cf-1f3a-4773-96df-0c0b74a70c0c",
+    "title": "Review: The Best Pancake Mix",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Pancake Mix\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-pancake-mix/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "a6e00c79-435e-48db-82c0-e23a783f2e65",
+    "title": "Review: The Best Bike Patch and Flat Kit",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Bike Patch and Flat Kit\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-bike-patch-kit/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "4ffaab8d-eed5-4f20-b3ee-4ceecef405c8",
+    "title": "Review: The Best Kids Bike Helmets",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Kids Bike Helmets\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-kids-bike-helmets/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  },
+  {
+    "id": "71c83c19-728d-4e70-982f-eddefb794ecd",
+    "title": "Review: The Best Citrus Juicer",
+    "description": "Automated gap analysis identified a new article from Wirecutter: \"The Best Citrus Juicer\". Evaluate and produce US-focused coverage for ReviewGuid.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-citrus-juicer/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-08-20T12:43:05.841Z",
+    "priority": "high",
+    "action": "Generate Article"
+  }
+]
