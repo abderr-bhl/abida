@@ -55,7 +55,7 @@ export default async function ReviewDetailPage({ params }: Props) {
                 ></div>
               </div>
               <div className="text-center mb-6">
-                 <div className="text-5xl font-black text-primary mb-1">{review.score}</div>
+                 <div className="text-5xl font-black text-[#0060df] mb-1">{review.score}</div>
                  <div className="text-sm font-bold text-gray-400 uppercase tracking-widest">Review Score</div>
               </div>
               <div className="space-y-4 mb-8">
