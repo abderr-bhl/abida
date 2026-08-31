@@ -59,7 +59,6 @@ export default async function ComparisonDetailPage({ params }: Props) {
                 {comparisonProducts.map(product => (
                   <td key={product.id} className="py-6 px-4 border-b border-gray-100 dark:border-gray-800 text-center">
                      <span className="text-gray-600 dark:text-gray-400">
-                       {/* In a real app, these values would be in the comparison data */}
                        {idx === 0 ? product.rating + ' / 5' : 'Available'}
                      </span>
                   </td>
@@ -69,7 +68,7 @@ export default async function ComparisonDetailPage({ params }: Props) {
             <tr>
                <td className="py-6 px-4 border-b border-gray-100 dark:border-gray-800 font-semibold">Price</td>
                {comparisonProducts.map(product => (
-                 <td key={product.id} className="py-6 px-4 border-b border-gray-100 dark:border-gray-800 text-center font-bold text-primary">
+                 <td key={product.id} className="py-6 px-4 border-b border-gray-100 dark:border-gray-800 text-center font-bold text-[#0060df]">
                     ${product.price}
                  </td>
                ))}
@@ -82,7 +81,7 @@ export default async function ComparisonDetailPage({ params }: Props) {
                       href={product.amazonUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-block bg-accent hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-colors text-sm"
+                      className="inline-block bg-[#FF9900] hover:bg-[#e68a00] text-gray-900 font-bold py-3 px-6 rounded-lg transition-colors text-sm"
                     >
                       Buy on Amazon
                     </a>
