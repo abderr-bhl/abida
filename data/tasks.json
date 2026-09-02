@@ -1,0 +1,72 @@
+[
+  {
+    "id": "52eb7515-7c56-4c0f-9b4a-efd1b71d429d",
+    "title": "Review: The Best Laptops for Older Adults",
+    "description": "There’s no one magical laptop that fits everyone’s needs. People of any age need a laptop for everyday tasks like checking email, watching media, shopping, and connecting with family and friends. But...",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-laptops-for-seniors/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-09-02T12:58:38.583Z",
+    "updatedAt": "2026-09-02T12:58:38.583Z"
+  },
+  {
+    "id": "c2004563-615b-48ec-a871-3c4a6bf46050",
+    "title": "Review: The Best Tripod",
+    "description": "Despite the fantastic image stabilization in today’s cameras and lenses, sometimes you just need a tripod for extra stability. Whether you’re doing time-lapse, macro, or eclipse photography, or you ju...",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-tripod/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-09-02T12:58:38.583Z",
+    "updatedAt": "2026-09-02T12:58:38.583Z"
+  },
+  {
+    "id": "a015a4b2-73a3-4d24-a817-e7362001e5ba",
+    "title": "Review: The Best Personalized Photo Gifts",
+    "description": "Think back to the first gift you ever gave someone. For one Wirecutter staffer, it was a photo mug from a mall kiosk. For another, it was a photo ornament with a macaroni frame. And for yet another a...",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-photo-gifts/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-09-02T12:58:38.583Z",
+    "updatedAt": "2026-09-02T12:58:38.583Z"
+  },
+  {
+    "id": "21801f6d-d3fe-4d44-aa5f-40191b007d1a",
+    "title": "Review: Most Gift Baskets Are Terrible. These Are Great.",
+    "description": "Gift baskets often get a bad rap, and many deserve it for their uninspired components: stale crackers, gritty chocolate, Red Delicious apples that are anything but. We wanted to find the standout choi...",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/gifts/best-gift-baskets/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-09-02T12:58:38.583Z",
+    "updatedAt": "2026-09-02T12:58:38.583Z"
+  },
+  {
+    "id": "e3bb65a5-d0f3-400a-ab38-52d0a882accb",
+    "title": "Review: The Best Foldable Phones",
+    "description": "In the past, Wirecutter hasn’t recommended foldable phones due to concerns regarding their durability and price. But that has changed. Foldable phones are still expensive compared with other smartphon...",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-foldable-phones/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-09-02T12:58:38.583Z",
+    "updatedAt": "2026-09-02T12:58:38.583Z"
+  },
+  {
+    "id": "task-1",
+    "title": "Review: The Best Robot Vacuums for 2024",
+    "description": "Benchmark Wirecutter recommendation on top-performing robot vacuums and compare features.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2026-09-02T12:58:37.626Z",
+    "updatedAt": "2026-09-02T12:58:37.626Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Review: Top Noise Cancelling Headphones",
+    "description": "Analyze recent RTINGS testing guidelines for noise canceling headphone frequency response.",
+    "sourceUrl": "https://www.rtings.com/headphones/reviews/best/by-feature/active-noise-cancelling-anc",
+    "competitor": "RTINGS",
+    "status": "in_progress",
+    "createdAt": "2026-09-02T12:58:37.626Z",
+    "updatedAt": "2026-09-02T12:58:37.626Z"
+  }
+]
