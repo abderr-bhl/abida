@@ -1,0 +1,65 @@
+[
+  {
+    "id": "978d87c0-39c6-44ca-9159-6c693cb23a80",
+    "title": "Review: So, You Want to Start Composting",
+    "description": "Competitor gap analysis: Listen and follow The Wirecutter Show Apple Podcasts | Spotify | Amazon Music | YouTube | iHeartRadio Before you dump your veggie peels and coffee grounds into the trash, consider ...",
+    "status": "in_progress",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20260904-compost/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-09-04T13:00:05.436Z",
+    "source": "Wirecutter"
+  },
+  {
+    "id": "103a7e9f-7053-48b6-bf3c-8e6bcab09f36",
+    "title": "Review: The Best Alarm Clocks",
+    "description": "Competitor gap analysis: For many people, waking up is hard. And even though alarms can be easily set on smartphones, they tend to encourage late-night scrolling (which is not great for sleep). The humble ...",
+    "status": "pending",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-alarm-clock/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-09-04T13:00:05.436Z",
+    "source": "Wirecutter"
+  },
+  {
+    "id": "fa403d7d-ad9a-41f3-afb1-adfca84e104b",
+    "title": "Review: The Best Folding Bike",
+    "description": "Competitor gap analysis: A folding bike may be the most convenient mode of transportation on two wheels. Not only can the best ones get you from point A to point B as readily as a full-size bike, but you c...",
+    "status": "pending",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-folding-bike/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-09-04T13:00:05.436Z",
+    "source": "Wirecutter"
+  },
+  {
+    "id": "1ec9cff9-a152-4fe1-95a8-d426d3d3bb39",
+    "title": "Review: Phones Used to Be Fun. These Accessories Recapture That Magic.",
+    "description": "Competitor gap analysis: Phones used to be fun. I still fondly reminisce about the T-Mobile Sidekick, with its swivel screen and physical keyboard, as well as the LG Chocolate’s click wheel. But somewhere ...",
+    "status": "pending",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/favorite-phone-accessories/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-09-04T13:00:05.436Z",
+    "source": "Wirecutter"
+  },
+  {
+    "id": "a185fc56-cd70-4ab3-9b9d-1626c3ce2272",
+    "title": "Review: The Best Indoor HDTV Antenna",
+    "description": "Competitor gap analysis: If you live within 20 to 30 miles of a TV transmitter tower, you can probably get most network and local channels by using a good indoor HDTV antenna instead of paying for live-TV ...",
+    "status": "pending",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-indoor-hdtv-antenna/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-09-04T13:00:05.436Z",
+    "source": "Wirecutter"
+  },
+  {
+    "id": "1",
+    "title": "Review: Best Wireless Noise-Canceling Headphones 2025",
+    "description": "Benchmarked competitor coverage for wireless noise-canceling headphones. Analyze top choices and update guide.",
+    "status": "pending",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-noise-canceling-headphones/",
+    "createdAt": "2025-01-15T10:00:00.000Z",
+    "source": "Wirecutter"
+  },
+  {
+    "id": "2",
+    "title": "Review: Best 4K OLED TVs Comparison",
+    "description": "Competitor published updated test methodology for OLED displays. Review gap analysis.",
+    "status": "in_progress",
+    "competitorUrl": "https://www.rtings.com/tv/reviews/best/by-type/oled",
+    "createdAt": "2025-01-14T15:30:00.000Z",
+    "source": "RTINGS"
+  }
+]
