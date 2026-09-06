@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c1f1a5a0-8a1a-4f51-b883-9b19e2730001",
+    "title": "Review: Best Noise-Canceling Headphones of 2025",
+    "description": "Benchmark task generated from Wirecutter article: \"The Best Noise-Canceling Headphones\". Analyze competitor coverage, product recommendations, and positioning.",
+    "type": "guide",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones/",
+    "competitor": "Wirecutter",
+    "createdAt": "2025-02-25T10:00:00.000Z"
+  },
+  {
+    "id": "c1f1a5a0-8a1a-4f51-b883-9b19e2730002",
+    "title": "Review: Sony WH-1000XM5 OLED TV vs LG C3",
+    "description": "Benchmark task generated from RTINGS article: \"LG C3 OLED vs Sony A80L\". Evaluate for content coverage and competitor strategy.",
+    "type": "comparison",
+    "status": "in_progress",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/lg/c3-oled",
+    "competitor": "RTINGS",
+    "createdAt": "2025-02-24T14:30:00.000Z"
+  },
+  {
+    "id": "c1f1a5a0-8a1a-4f51-b883-9b19e2730003",
+    "title": "Review: The Best Ergonomic Office Chairs",
+    "description": "Benchmark task generated from Wirecutter article: \"The Best Office Chair\". Evaluate top recommendations and affiliate link setup.",
+    "type": "guide",
+    "status": "completed",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-office-chair/",
+    "competitor": "Wirecutter",
+    "createdAt": "2025-02-23T09:15:00.000Z"
+  }
+]
