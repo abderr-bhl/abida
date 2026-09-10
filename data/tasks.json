@@ -1,0 +1,35 @@
+[
+  {
+    "id": "task-101",
+    "title": "Review: The Best Air Purifiers for 2025",
+    "description": "Benchmark competitor coverage on HEPA air purifiers, testing noise levels, filtration performance, and smart features for US homes.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-air-purifier/",
+    "source": "Wirecutter",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2025-05-10T08:00:00.000Z",
+    "updatedAt": "2025-05-10T08:00:00.000Z"
+  },
+  {
+    "id": "task-102",
+    "title": "Review: The Best Wireless Noise-Canceling Headphones",
+    "description": "Evaluate competitor rankings for Sony, Bose, and Apple ANC headphones focusing on battery life, comfort, and microphone clarity.",
+    "sourceUrl": "https://www.rtings.com/headphones/reviews/best/by-feature/active-noise-cancelling",
+    "source": "RTINGS",
+    "status": "in-progress",
+    "priority": "high",
+    "createdAt": "2025-05-09T10:30:00.000Z",
+    "updatedAt": "2025-05-09T14:15:00.000Z"
+  },
+  {
+    "id": "task-103",
+    "title": "Guide: The Best Espresso Machines for Home Baristas",
+    "description": "Analyze market gap in entry-level and mid-range espresso machines with integrated grinders and steam wands.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-espresso-machine/",
+    "source": "Wirecutter",
+    "status": "completed",
+    "priority": "medium",
+    "createdAt": "2025-05-08T09:00:00.000Z",
+    "updatedAt": "2025-05-08T16:00:00.000Z"
+  }
+]
