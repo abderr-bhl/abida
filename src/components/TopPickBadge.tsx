@@ -1,0 +1,15 @@
+interface TopPickBadgeProps {
+  label?: string;
+  className?: string;
+}
+
+export default function TopPickBadge({ label = 'Top Pick', className = '' }: TopPickBadgeProps) {
+  return (
+    <span
+      className={`inline-flex items-center px-3 py-1 rounded-full text-xs font-extrabold uppercase tracking-wide bg-orange-100 text-orange-900 border border-orange-300 shadow-sm ${className}`}
+    >
+      <span className="mr-1 text-orange-600">★</span>
+      {label}
+    </span>
+  );
+}
