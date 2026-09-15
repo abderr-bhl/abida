@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex">
             <div className="flex-shrink-0 flex items-center">
-              <Link href="/" className="text-2xl font-bold text-primary">
+              <Link href="/" className="text-2xl font-bold text-[#0060df]">
                 ReviewGuid
               </Link>
             </div>
@@ -38,8 +38,14 @@ export default function Navbar() {
               </Link>
             </div>
           </div>
-          <div className="hidden sm:ml-6 sm:flex sm:items-center">
-            <button className="bg-primary text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700">
+          <div className="hidden sm:ml-6 sm:flex sm:items-center space-x-4">
+            <Link
+              href="/admin/tasks"
+              className="text-xs text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 font-medium"
+            >
+              Admin
+            </Link>
+            <button className="bg-[#0060df] text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700 transition">
               Subscribe
             </button>
           </div>
