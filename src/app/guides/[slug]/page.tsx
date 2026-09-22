@@ -2,6 +2,7 @@ import { guides, products } from '@/lib/mockData';
 import { notFound } from 'next/navigation';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
+import TopPickBadge from '@/components/TopPickBadge';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -47,9 +48,14 @@ export default async function GuideDetailPage({ params }: Props) {
       <section className="bg-gray-50 dark:bg-gray-900 rounded-2xl p-8 border border-gray-200 dark:border-gray-800">
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-8">Top Recommendations</h2>
         <div className="space-y-8">
-          {recommendedProducts.map(product => (
-            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center">
-              <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden">
+          {recommendedProducts.map((product, index) => (
+            <div key={product.id} className="relative bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center">
+              {index === 0 && (
+                <div className="absolute -top-3 left-6">
+                  <TopPickBadge />
+                </div>
+              )}
+              <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden flex-shrink-0 mt-2 md:mt-0">
                 <div
                   className="absolute inset-0 bg-cover bg-center"
                   style={{ backgroundImage: `url(${product.imageUrl})` }}
