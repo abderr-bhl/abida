@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b444faec-369a-425a-91c1-da48f8f2ecd1",
+    "title": "Review: Best Noise-Canceling Headphones for Travel 2025",
+    "description": "Automated content task identified from Wirecutter. Content gap: \"Best Noise-Canceling Headphones\". Analyze competitor coverage and create matching US buyer guide.",
+    "status": "pending",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-noise-canceling-headphones/",
+    "competitor": "Wirecutter",
+    "createdAt": "2026-09-23T14:08:14.373Z"
+  },
+  {
+    "id": "e8baba08-1656-4da6-82a6-ce6fba58cbdf",
+    "title": "Review: The 5 Best 4K Gaming Monitors - Spring 2025",
+    "description": "Automated content task identified from RTINGS. Content gap: \"Best 4K Gaming Monitors\". Benchmark competitor testing metrics and generate comparison page.",
+    "status": "pending",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-usage/gaming",
+    "competitor": "RTINGS",
+    "createdAt": "2026-09-23T14:08:14.373Z"
+  }
+]
