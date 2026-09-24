@@ -1,0 +1,56 @@
+[
+  {
+    "id": "a49163e5-1684-4e7d-85bd-2e541e777cbc",
+    "title": "Review: The Best Wireless Noise-Canceling Headphones",
+    "description": "In-depth evaluation of top noise-canceling headphones for travel and work.",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-headphones/",
+    "status": "pending",
+    "createdAt": "2026-09-24T13:46:34.728Z"
+  },
+  {
+    "id": "3a1cdbda-6730-4213-aed1-3f3cec74d852",
+    "title": "Review: The Best Robot Vacuums for Hardwood and Carpet",
+    "description": "Hands-on testing of automated vacuums across various floor surfaces.",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "status": "pending",
+    "createdAt": "2026-09-24T13:46:34.728Z"
+  },
+  {
+    "id": "918c146e-424e-4963-9f8b-89d1b7ee1268",
+    "title": "Review: The Best 4K TVs for Every Budget",
+    "description": "Comparing OLED, QLED, and LED models for color accuracy and HDR performance.",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-4k-tv/",
+    "status": "pending",
+    "createdAt": "2026-09-24T13:46:34.728Z"
+  },
+  {
+    "id": "19b2c4b8-0f06-4fc6-9699-906402b0e39d",
+    "title": "Review: Samsung S90C OLED TV Review and Lab Benchmark",
+    "description": "Quantitative contrast, motion clarity, and response time measurements.",
+    "source": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/samsung/s90c-oled",
+    "status": "pending",
+    "createdAt": "2026-09-24T13:46:34.839Z"
+  },
+  {
+    "id": "c9c82234-c1d7-4a04-a87b-f60b92826d26",
+    "title": "Review: LG C3 OLED TV Performance Review",
+    "description": "Extensive lab testing covering input lag, brightness, and viewing angles.",
+    "source": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/lg/c3-oled",
+    "status": "pending",
+    "createdAt": "2026-09-24T13:46:34.839Z"
+  },
+  {
+    "id": "a652a451-4417-4dd9-92f3-712f9269bd9b",
+    "title": "Review: Sony WH-1000XM5 Headphones Review",
+    "description": "Frequency response consistency, active noise isolation, and microphone score.",
+    "source": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm5-wireless",
+    "status": "pending",
+    "createdAt": "2026-09-24T13:46:34.839Z"
+  }
+]
