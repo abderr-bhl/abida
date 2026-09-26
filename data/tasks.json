@@ -1,0 +1,29 @@
+[
+  {
+    "id": "f7317789-7bd0-40fb-807c-3967e770c9b1",
+    "title": "Review: The Best Noise-Canceling Headphones for 2025",
+    "description": "Benchmarked from Wirecutter top choices. Analyze market features and update comparison guide.",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-noise-canceling-headphones/",
+    "source": "Wirecutter (Fallback)",
+    "status": "PENDING",
+    "createdAt": "2026-09-26T13:40:40.713Z"
+  },
+  {
+    "id": "06896b4a-1853-495e-9a9a-525ee7c7445b",
+    "title": "Review: Best OLED TVs for Gaming and Movies",
+    "description": "Benchmarked from RTINGS top lab measurements. Produce updated side-by-side performance chart.",
+    "competitorUrl": "https://www.rtings.com/tv/reviews/best/by-usage/hdr-gaming",
+    "source": "RTINGS (Fallback)",
+    "status": "PENDING",
+    "createdAt": "2026-09-26T13:40:40.713Z"
+  },
+  {
+    "id": "c1229d4e-6957-424c-bed4-72c2a5d1f668",
+    "title": "Review: The Best Wireless Ergonomic Keyboards",
+    "description": "Benchmarked competitor guide. Compare mechanical switches and battery longevity for remote work.",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-ergonomic-keyboard/",
+    "source": "Wirecutter (Fallback)",
+    "status": "PENDING",
+    "createdAt": "2026-09-26T13:40:40.713Z"
+  }
+]
