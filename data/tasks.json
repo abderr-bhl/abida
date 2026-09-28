@@ -1,0 +1,20 @@
+[
+  {
+    "id": "task-001",
+    "title": "Review: The Best Wireless Noise-Canceling Headphones",
+    "description": "Benchmark rival review structures and recommended product lineups for premium ANC headphones.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-noise-canceling-headphones/",
+    "competitor": "Wirecutter",
+    "status": "pending",
+    "createdAt": "2025-02-28T10:00:00.000Z"
+  },
+  {
+    "id": "task-002",
+    "title": "Review: Best 4K Gaming Monitors of 2025",
+    "description": "Analyze competitive rating criteria and refresh rate tests on RTINGS.",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-usage/gaming",
+    "competitor": "RTINGS",
+    "status": "in_progress",
+    "createdAt": "2025-02-27T14:30:00.000Z"
+  }
+]

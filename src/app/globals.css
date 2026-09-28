@@ -4,18 +4,18 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --primary: #2563eb;
+  --primary: #0060df;
   --primary-foreground: #ffffff;
   --secondary: #f3f4f6;
   --secondary-foreground: #1f2937;
-  --accent: #f59e0b;
-  --accent-foreground: #ffffff;
+  --accent: #FF9900;
+  --accent-foreground: #111827;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --color-primary: var(--primary);
+  --color-primary: var(--color-blue-600);
   --color-primary-foreground: var(--primary-foreground);
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
@@ -29,9 +29,10 @@
   :root {
     --background: #0f172a;
     --foreground: #f8fafc;
-    --primary: #3b82f6;
+    --primary: #0060df;
     --secondary: #1e293b;
     --secondary-foreground: #f1f5f9;
+    --accent: #FF9900;
   }
 }
 
@@ -39,4 +40,20 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+.bg-primary {
+  background-color: #0060df;
+}
+
+.text-primary {
+  color: #0060df;
+}
+
+.border-primary {
+  border-color: #0060df;
+}
+
+.hover\:bg-primary-dark:hover {
+  background-color: #004bb3;
 }
