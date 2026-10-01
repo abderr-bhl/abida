@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Review: Best OLED TVs of 2026",
+    "description": "RTINGS published updated test results for 4K OLED TVs. Benchmark comparison against LG G4 vs Sony A95L.",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/best/by-type/oled",
+    "competitor": "RTINGS",
+    "status": "PENDING",
+    "createdAt": "2026-10-01T10:00:00.000Z",
+    "updatedAt": "2026-10-01T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Review: Best Standing Desks for Home Office",
+    "description": "Wirecutter updated standing desk recommendations. Review top picks on Amazon US.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-standing-desk/",
+    "competitor": "Wirecutter",
+    "status": "IN_PROGRESS",
+    "createdAt": "2026-10-01T09:00:00.000Z",
+    "updatedAt": "2026-10-01T09:30:00.000Z"
+  }
+]
