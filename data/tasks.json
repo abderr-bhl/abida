@@ -1,0 +1,63 @@
+[
+  {
+    "id": "abf53aab-e57e-4986-8689-1f78b94c9df6",
+    "title": "Review: 10 Tried-And-True Gifts in Wirecutter’s Hall of Fame",
+    "description": "Analyze competitor article \"10 Tried-And-True Gifts in Wirecutter’s Hall of Fame\" and create a superior US market guide / review for reviewguid.com addressing content gaps.",
+    "category": "Buyer Guide",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/gifts/the-gift-hall-of-fame-20261002/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "in_progress",
+    "priority": "high",
+    "createdAt": "2026-10-02T13:55:22.162Z",
+    "updatedAt": "2026-10-02T13:55:24.966Z"
+  },
+  {
+    "id": "5498df4e-c233-4577-b787-25dd3e41546b",
+    "title": "Review: The Very Best October Prime Day Deals We’ve Already Found (Including Discounts You Won't See Anywhere Else)",
+    "description": "Analyze competitor article \"The Very Best October Prime Day Deals We’ve Already Found (Including Discounts You Won't See Anywhere Else)\" and create a superior US market guide / review for reviewguid.com addressing content gaps.",
+    "category": "Buyer Guide",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/money/best-prime-big-deal-days-deals-2026/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-10-02T13:55:22.162Z"
+  },
+  {
+    "id": "1833dc52-9b71-48bc-bab9-b7906b7c99e3",
+    "title": "Review: How to Pack a Better Lunch",
+    "description": "Analyze competitor article \"How to Pack a Better Lunch\" and create a superior US market guide / review for reviewguid.com addressing content gaps.",
+    "category": "Buyer Guide",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20261002-lunch-boxes/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-10-02T13:55:22.162Z"
+  },
+  {
+    "id": "e67d876a-b534-417e-9913-8ea0a8dca2b7",
+    "title": "Review: The Best Wireless Earbuds for Working Out",
+    "description": "Analyze competitor article \"The Best Wireless Earbuds for Working Out\" and create a superior US market guide / review for reviewguid.com addressing content gaps.",
+    "category": "Audio",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-exercise-headphones/",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-10-02T13:55:22.350Z"
+  },
+  {
+    "id": "e2c2c6b4-eede-4720-b7e6-e9db9a247691",
+    "title": "Review: The Best OLED TVs of 2025",
+    "description": "Analyze competitor article \"The Best OLED TVs of 2025\" and create a superior US market guide / review for reviewguid.com addressing content gaps.",
+    "category": "Electronics",
+    "competitorUrl": "https://www.rtings.com/tv/reviews/best/by-type/oled",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-10-02T13:55:22.350Z"
+  },
+  {
+    "id": "fe166f04-cc07-4952-bad0-c0faf5034df5",
+    "title": "Review: The Best Robot Vacuums for Pet Hair",
+    "description": "Analyze competitor article \"The Best Robot Vacuums for Pet Hair\" and create a superior US market guide / review for reviewguid.com addressing content gaps.",
+    "category": "Home",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-10-02T13:55:22.350Z"
+  }
+]
