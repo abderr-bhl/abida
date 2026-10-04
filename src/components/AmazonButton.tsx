@@ -1,18 +1,30 @@
+import React from 'react';
+import { ExternalLink } from 'lucide-react';
+import { sanitizeUrl } from '@/lib/sanitize';
+
 interface AmazonButtonProps {
   url: string;
   text?: string;
   className?: string;
 }
 
-export default function AmazonButton({ url, text = "View on Amazon", className = "" }: AmazonButtonProps) {
+export default function AmazonButton({
+  url,
+  text = 'View on Amazon',
+  className = '',
+}: AmazonButtonProps) {
+  const safeUrl = sanitizeUrl(url);
+
   return (
     <a
-      href={url}
+      href={safeUrl}
       target="_blank"
       rel="noopener noreferrer"
-      className={`inline-block bg-[#FF9900] hover:bg-[#e68a00] text-white font-bold py-3 px-8 rounded-lg transition-colors text-center shadow-sm ${className}`}
+      aria-label={`${text} (opens in a new tab)`}
+      className={`inline-flex items-center justify-center gap-2 bg-[#FF9900] hover:bg-[#e68a00] text-[#111827] font-bold py-3 px-6 rounded-lg transition-colors shadow-sm focus:outline-none focus:ring-2 focus:ring-amber-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900 ${className}`}
     >
-      {text}
+      <span>{text}</span>
+      <ExternalLink className="w-4 h-4 text-[#111827]" aria-hidden="true" />
     </a>
   );
 }
