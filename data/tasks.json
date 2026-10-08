@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "title": "Review: The Best Noise-Canceling Headphones of 2025",
+    "description": "Benchmark competitor review on top noise-canceling headphones to evaluate new product ratings and features.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-noise-canceling-headphones/",
+    "status": "pending",
+    "createdAt": "2025-01-15T08:00:00.000Z",
+    "category": "Electronics"
+  },
+  {
+    "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "title": "Guide: The Best OLED TVs for Gaming",
+    "description": "Evaluate competitor guide on OLED TVs for gaming, comparing latency metrics and image quality tests.",
+    "competitor": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/best/by-feature/oled",
+    "status": "in_progress",
+    "createdAt": "2025-01-16T10:30:00.000Z",
+    "category": "TVs"
+  }
+]
