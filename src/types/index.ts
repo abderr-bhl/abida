@@ -55,3 +55,15 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export type TaskStatus = 'pending' | 'in_progress' | 'completed' | 'dismissed';
+
+export interface BenchmarkTask {
+  id: string;
+  title: string;
+  description: string;
+  source: string;
+  url: string;
+  status: TaskStatus;
+  createdAt: string;
+}
