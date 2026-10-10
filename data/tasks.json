@@ -1,0 +1,74 @@
+[
+  {
+    "id": "de5b874a-2e0b-450e-957f-4fb9d776821d",
+    "title": "Review: The Best Noise-Canceling Headphones for 2025",
+    "description": "Benchmark competitor review of top wireless ANC headphones including Sony WH-1000XM5 and Bose QuietComfort Ultra.",
+    "source": "Wirecutter Fallback",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones/",
+    "createdAt": "2026-10-10T13:58:42.717Z",
+    "status": "pending"
+  },
+  {
+    "id": "38fbba0f-f455-4958-b48c-08ea9fd15709",
+    "title": "Review: Top 4K OLED Gaming Monitors Comparison",
+    "description": "Benchmark competitor review analyzing 4K OLED high refresh rate gaming monitors.",
+    "source": "RTINGS Fallback",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-usage/gaming",
+    "createdAt": "2026-10-10T13:58:42.717Z",
+    "status": "pending"
+  },
+  {
+    "id": "13c2930b-054d-4871-a0f3-4e4d8a6a68ef",
+    "title": "Review: Best Budget Robot Vacuums",
+    "description": "Benchmark competitor testing of smart budget robot vacuums for hardwood and carpet floors.",
+    "source": "Wirecutter Fallback",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "createdAt": "2026-10-10T13:58:42.717Z",
+    "status": "pending"
+  },
+  {
+    "id": "429a7a7a-b042-4fea-9aaf-ad4ea1b22503",
+    "title": "Review: The Best Yoga Mats",
+    "description": "Automated competitor benchmark task created from Wirecutter: \"A yoga mat should be comfortable and supportive, provide sufficient grip to keep you from slipping, and be easy to clean and carry. Since 2014, we’ve downward-dogged and Savasanaed on 50 yoga mats (plus a few mat alternatives). We’ve also used them for calisthenic workouts, lugged them around New York City, and drenched them in…\"",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-yoga-mats/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-10T13:57:31.437Z",
+    "status": "pending"
+  },
+  {
+    "id": "140aeb4c-08e6-4d76-961f-832070d6df05",
+    "title": "Review: The Best Mattress Protectors and Pillow Encasements",
+    "description": "Automated competitor benchmark task created from Wirecutter: \"We spend at least a third of our lives atop our mattresses: sleeping, canoodling, “hurkle-durkling.” And that means there are lots of opportunities for various, er, substances to seep into the (moisture-holding) foam below you. Since you can’t toss your mattress into the washing machine along with your sheets, we recommend wrapping it in something…\"",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-waterproof-mattress-protectors-and-pads/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-10T13:57:31.437Z",
+    "status": "pending"
+  },
+  {
+    "id": "6134c14d-c97d-4074-b496-c4c899b03990",
+    "title": "Review: I Despised Blow-Dry Brushes. Then I Met the Shark Glossi.",
+    "description": "Automated competitor benchmark task created from Wirecutter: \"After testing blow-dry brushes for a decade, our beauty editor has found that this is the only one she’ll use for a sleek at-home blowout.\"",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/shark-glossi-blow-dryer-brush-review/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-10T13:57:31.437Z",
+    "status": "pending"
+  },
+  {
+    "id": "5845d7e6-5cf5-42aa-bced-930ca37456a4",
+    "title": "Review: The Best Handheld and Car Vacuums",
+    "description": "Automated competitor benchmark task created from Wirecutter: \"Handheld vacuums can go where bigger vacuums can’t, making it easy to ferret out lint between cushions, crumbs from car seats, and pet fur from every surface in your home. Since 2013, we’ve looked at more than 180 handheld and car vacuums, and we’ve conducted hundreds of hours of research and testing. We’ve concluded that…\"",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-handheld-vacuum/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-10T13:57:31.437Z",
+    "status": "pending"
+  },
+  {
+    "id": "6a634a03-976e-4de9-8974-eae4b285ac6f",
+    "title": "Review: The Best Gear for a Home Theater System",
+    "description": "Automated competitor benchmark task created from Wirecutter: \"Whether you’re planning to build a dedicated theater room or just thinking of upgrading your living-room system to create a more immersive, theater-like experience, we have video and audio recommendations covering every space and budget. Our AV team spends thousands of hours each year seeking the best-looking and best-sounding home theater equipment. We discuss the…\"",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/the-best-gear-for-your-home-theater/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-10T13:57:31.437Z",
+    "status": "pending"
+  }
+]
