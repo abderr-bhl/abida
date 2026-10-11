@@ -1,0 +1,56 @@
+[
+  {
+    "id": "52daac44-0615-4302-9f34-32781abae81f",
+    "title": "Guide: Best Robot Vacuums for Pet Hair",
+    "description": "Wirecutter added new suction performance data for robot vacuums. Update top picks and Amazon affiliate links.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "status": "pending",
+    "createdAt": "2026-10-11T14:04:28.181Z"
+  },
+  {
+    "id": "885845d3-56f7-46d2-902d-e1bb274bd6d0",
+    "title": "Review: Best Wireless Keyboards",
+    "description": "RTINGS released updated typing comfort ratings for wireless mechanical keyboards.",
+    "competitor": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/keyboard/reviews/best/wireless",
+    "status": "pending",
+    "createdAt": "2026-10-11T14:04:28.181Z"
+  },
+  {
+    "id": "8fb60776-90a4-448e-9bb1-36c3abe26106",
+    "title": "Review: Best Noise-Canceling Headphones of 2025",
+    "description": "Wirecutter published a comprehensive update on noise-canceling headphones. Analyze top choices and update recommendations.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones/",
+    "status": "pending",
+    "createdAt": "2026-10-11T14:03:26.768Z"
+  },
+  {
+    "id": "c859bb46-ebc8-4eed-999c-9c2a8a3f658e",
+    "title": "Review: Best OLED TVs for Gaming",
+    "description": "RTINGS published new lab benchmark scores for gaming OLED TVs. Compare latency and picture quality tests.",
+    "competitor": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/best/by-usage/video-gaming",
+    "status": "pending",
+    "createdAt": "2026-10-11T14:03:26.768Z"
+  },
+  {
+    "id": "task-1",
+    "title": "Review: Best Air Purifiers for Allergies",
+    "description": "Wirecutter published an updated comparison on HEPA air purifiers. Benchmark their picks and update Amazon links.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-air-purifier/",
+    "status": "pending",
+    "createdAt": "2026-10-09T14:03:26.549Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Review: Best Budget Soundbars",
+    "description": "RTINGS updated frequency response benchmarks for budget soundbars under $200.",
+    "competitor": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/soundbar/reviews/best/by-price/under-200",
+    "status": "in_progress",
+    "createdAt": "2026-10-10T14:03:26.549Z"
+  }
+]
