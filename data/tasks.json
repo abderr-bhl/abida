@@ -1,0 +1,72 @@
+[
+  {
+    "id": "0774f70f-ae2b-410a-a3ae-8a79f3b74692",
+    "title": "Review: The Best Wireless Noise-Canceling Headphones of 2025",
+    "description": "Competitive analysis identified high US buyer interest in updated noise-canceling headphones reviews.",
+    "source": "Wirecutter Benchmark",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-noise-canceling-headphones/",
+    "status": "pending",
+    "createdAt": "2026-10-18T13:42:17.132Z",
+    "updatedAt": "2026-10-18T13:42:17.132Z"
+  },
+  {
+    "id": "257d23c2-49f4-4aac-82bc-93915fd20c0f",
+    "title": "Review: The Best OLED TVs for Gaming and Home Theater",
+    "description": "US competitor RTINGS published updated OLED display benchmarks and calibration ratings.",
+    "source": "RTINGS Benchmark",
+    "competitorUrl": "https://www.rtings.com/tv/reviews/best/by-type/oled",
+    "status": "pending",
+    "createdAt": "2026-10-18T13:42:17.132Z",
+    "updatedAt": "2026-10-18T13:42:17.132Z"
+  },
+  {
+    "id": "777d1827-a7e8-4290-b745-07ad440afe1a",
+    "title": "Review: The Best Ergonomic Office Chairs for Home Offices",
+    "description": "Benchmarked top US competitor buyer guides to cover trending ergonomic office seating options.",
+    "source": "Wirecutter Benchmark",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-office-chair/",
+    "status": "pending",
+    "createdAt": "2026-10-18T13:42:17.132Z",
+    "updatedAt": "2026-10-18T13:42:17.132Z"
+  },
+  {
+    "id": "e23882fb-f728-464b-8ae3-e38828646a8c",
+    "title": "Review: The Best Robot Vacuums for Pet Hair",
+    "description": "Identified content gap in smart home cleaning category compared to major US review sites.",
+    "source": "US Competitor Analysis",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "status": "pending",
+    "createdAt": "2026-10-18T13:42:17.132Z",
+    "updatedAt": "2026-10-18T13:42:17.132Z"
+  },
+  {
+    "id": "44402f0a-efd5-4dff-9ecf-f420cd1a2706",
+    "title": "Review: 11 Creative Ways to Store Your Books",
+    "description": "We spoke with design experts and Wirecutter staffers to get tips on how to stylishly store books at home when space is tight.",
+    "source": "Wirecutter",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/book-storage-ideas/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-18T13:40:03.773Z",
+    "updatedAt": "2026-10-18T13:40:03.773Z"
+  },
+  {
+    "id": "633da6b5-0e6b-469f-8d78-93169287094e",
+    "title": "Review: Our Favorite Tapered Candles",
+    "description": "Lighting a candle is a deeply human ritual that brings intention and magic to a meal, a gathering, or even a quiet evening. We tested more than three-dozen tapered candles and found 13 we love — from smooth, classic solid-colored tapers and twirly spirals to whimsical statement tapers. Read on to find the set that…",
+    "source": "Wirecutter",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/our-favorite-tapered-candles/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-18T13:40:03.773Z",
+    "updatedAt": "2026-10-18T13:40:03.773Z"
+  },
+  {
+    "id": "ad320687-b511-4b69-92c8-77f2e46f6d95",
+    "title": "Review: The Best Cheap Laptops",
+    "description": "Budget laptops are becoming endangered this year as essential components like memory and storage undergo significant price increases. This is a major change from previous years, where we saw an overwhelming glut of cheap laptops, most of which were downright awful. But that abundance is drying up as prices rise and as older, cheaper models…",
+    "source": "Wirecutter",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-budget-laptops/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-18T13:40:03.773Z",
+    "updatedAt": "2026-10-18T13:40:03.773Z"
+  }
+]
