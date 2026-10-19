@@ -1,0 +1,47 @@
+[
+  {
+    "id": "72449515-7cd0-4f62-9def-4d6fe3205da5",
+    "title": "Review: The Promise and Peril of Tracking My Health 24/7",
+    "description": "Health troubles left me feeling powerless, so I tracked my sleep, diet, body comp, and blood-based biomarkers for answers. Here’s what helped — and what didn’t.",
+    "status": "pending",
+    "createdAt": "2026-10-19T13:46:48.865Z",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/advice/six-month-health-tracking-journey/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed"
+  },
+  {
+    "id": "4513ba06-1271-4f0d-9b72-e4e98d71d018",
+    "title": "Review: 11 Creative Ways to Store Your Books",
+    "description": "We spoke with design experts and Wirecutter staffers to get tips on how to stylishly store books at home when space is tight.",
+    "status": "pending",
+    "createdAt": "2026-10-19T13:46:48.866Z",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/book-storage-ideas/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed"
+  },
+  {
+    "id": "4700ee33-91b4-41d5-95e5-3486f65a4c10",
+    "title": "Review: Our Favorite Tapered Candles",
+    "description": "Lighting a candle is a deeply human ritual that brings intention and magic to a meal, a gathering, or even a quiet evening. We tested more than three-dozen tapered candles and found 13 we love — from smooth, classic solid-colored tapers and twirly spirals to whimsical statement tapers. Read on to find the set that…",
+    "status": "pending",
+    "createdAt": "2026-10-19T13:46:48.866Z",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/our-favorite-tapered-candles/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed"
+  },
+  {
+    "id": "798b1310-cffa-4f09-a32c-2f53fd3b22e4",
+    "title": "Review: The Best Cheap Laptops",
+    "description": "Budget laptops are becoming endangered this year as essential components like memory and storage undergo significant price increases. This is a major change from previous years, where we saw an overwhelming glut of cheap laptops, most of which were downright awful. But that abundance is drying up as prices rise and as older, cheaper models…",
+    "status": "pending",
+    "createdAt": "2026-10-19T13:46:48.866Z",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-budget-laptops/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed"
+  },
+  {
+    "id": "6bf5aced-2dfa-43cc-a99c-2d464f961e97",
+    "title": "Review: The Best Nonalcoholic Beers",
+    "description": "When we tested hop water, we praised it for not trying to be beer. Nonalcoholic beer, on the other hand, tries very hard to be beer. Plenty of nonalcoholic beers fail. Some are tasteless. Others have plenty of flavor — just not the kind you want. Many are flat-out terrible. But when a nonalcoholic beer…",
+    "status": "pending",
+    "createdAt": "2026-10-19T13:46:48.866Z",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-non-alcoholic-beer/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed"
+  }
+]

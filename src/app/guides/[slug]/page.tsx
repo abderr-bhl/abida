@@ -2,6 +2,7 @@ import { guides, products } from '@/lib/mockData';
 import { notFound } from 'next/navigation';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
+import TopPickBadge from '@/components/TopPickBadge';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -47,16 +48,19 @@ export default async function GuideDetailPage({ params }: Props) {
       <section className="bg-gray-50 dark:bg-gray-900 rounded-2xl p-8 border border-gray-200 dark:border-gray-800">
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-8">Top Recommendations</h2>
         <div className="space-y-8">
-          {recommendedProducts.map(product => (
-            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center">
-              <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden">
+          {recommendedProducts.map((product, index) => (
+            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center border border-gray-100 dark:border-gray-700 relative">
+              <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden flex-shrink-0">
                 <div
                   className="absolute inset-0 bg-cover bg-center"
                   style={{ backgroundImage: `url(${product.imageUrl})` }}
                 ></div>
               </div>
               <div className="flex-grow">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">{product.name}</h3>
+                <div className="flex items-center gap-3 mb-2 flex-wrap">
+                  {index === 0 && <TopPickBadge />}
+                  <h3 className="text-xl font-bold text-gray-900 dark:text-white">{product.name}</h3>
+                </div>
                 <div className="flex items-center mb-4">
                    <span className="text-yellow-400 mr-1">★</span>
                    <span className="text-sm font-medium text-gray-600 dark:text-gray-400">{product.rating} / 5.0</span>
