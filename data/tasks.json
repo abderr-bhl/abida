@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c9108caa-b426-4a02-842f-c37b7bf999c7",
+    "title": "Review: Face Sunscreen For Every Season",
+    "description": "Listen and follow The Wirecutter Show Apple Podcasts | Spotify | Amazon Music | YouTube | iHeartRadio It’s easy to forget to wear sunscreen in the fall and winter, but the sun’s rays can still cause skin damage–like aging and skin cancer–even on cold and cloudy days. That’s why it’s important to find a sunscreen…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/wirecutter-show-podcast-20261020-face-sunscreen/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "category": "Tech & Home",
+    "status": "Completed",
+    "createdAt": "2026-10-20T13:38:51.280Z",
+    "updatedAt": "2026-10-20T13:38:53.988Z"
+  },
+  {
+    "id": "491086e0-63c3-4bf5-8cb7-97be8fa28f48",
+    "title": "Review: The 33 Best Holiday Gifts for 4-Year-Olds",
+    "description": "Many 4-year-olds are learning to master their environments, and they’re starting to negotiate boundaries, push limits, and question everything. Some of the best gifts for 4-year-olds engage their endless curiosity, rapidly developing physical skills, and desire to understand everything around them. Early STEM toys help kids develop skills related to science, technology, engineering, and math.…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/gifts/best-gifts-for-4-year-olds/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "category": "Tech & Home",
+    "status": "Pending",
+    "createdAt": "2026-10-20T13:38:51.280Z",
+    "updatedAt": "2026-10-20T13:38:51.280Z"
+  },
+  {
+    "id": "f4da1f3b-a40c-42b2-b708-013b6822436b",
+    "title": "Review: The Best Hybrid Mattresses",
+    "description": "Between a body-hugging foam mattress and a bouncy innerspring, there’s a dreamy middle ground: the hybrid mattress. Combining coils and foam, hybrids are pitched by mattress companies as a Goldilocks option — not too springy, not too sinky, but just right. After trying more than 100 mattresses with dozens of testers, we agree: Hybrid mattresses…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-hybrid-mattresses/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "category": "Tech & Home",
+    "status": "Pending",
+    "createdAt": "2026-10-20T13:38:51.280Z",
+    "updatedAt": "2026-10-20T13:38:51.280Z"
+  },
+  {
+    "id": "task-1",
+    "title": "Review: Best Wireless Earbuds for iPhone",
+    "description": "Competitor Wirecutter updated their top pick for Wireless Earbuds. Create a US targeted review comparing sound profiles.",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-earbuds/",
+    "category": "Electronics",
+    "status": "Pending",
+    "createdAt": "2026-10-18T13:38:49.064Z",
+    "updatedAt": "2026-10-18T13:38:49.064Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Guide: Best 4K Gaming Monitors under $500",
+    "description": "RTINGS tested 15 new 4K high-refresh rate monitors. Benchmark color accuracy and input latency specifications.",
+    "competitor": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-usage/gaming",
+    "category": "Gaming",
+    "status": "In Progress",
+    "createdAt": "2026-10-19T13:38:49.064Z",
+    "updatedAt": "2026-10-19T13:38:49.065Z"
+  }
+]
