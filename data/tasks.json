@@ -1,0 +1,52 @@
+[
+  {
+    "id": "9bb930a4-faf5-4eb8-886f-bff01e18e85a",
+    "title": "Review: The 44 Best Holiday Gifts for 5-Year-Olds",
+    "description": "Learning is at the center of a 5-year-old’s life. Many kids this age are starting kindergarten, and they’re developing skills and more-specific interests that open up new gift-giving possibilities. But that doesn’t mean they need so-called educational toys. Look for gifts that complement a child’s natural curiosities, whether they love to create art, grow stuff,…",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/gifts/best-gifts-for-5-year-olds/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-22T14:01:18.351Z",
+    "status": "pending",
+    "type": "review"
+  },
+  {
+    "id": "2c1c1f18-809a-4392-8e95-5c712fd817a1",
+    "title": "Review: How to Stop Your Home From Smelling Like Cat Litter",
+    "description": "Nobody wants to get a whiff of litter-box odors when walking in the front door. Luckily, it doesn’t take much effort to keep those telltale scents at bay.",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/advice/how-to-keep-cat-litter-from-smelling/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-22T14:01:18.351Z",
+    "status": "pending",
+    "type": "guide"
+  },
+  {
+    "id": "3f92214d-1e66-406e-a79a-f256c2f4ab3f",
+    "title": "Review: The Best Mini Desktop PCs",
+    "description": "If you’re looking for a simple, small desktop computer for your home or office, consider a mini PC. These computers are best for everyday tasks such as working on documents and spreadsheets, browsing the web, taking video calls, or watching TV. However, our top picks are also powerful enough for editing media or compiling code.…",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-mini-desktop-pcs/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-22T14:01:18.351Z",
+    "status": "pending",
+    "type": "review"
+  },
+  {
+    "id": "105360d7-fd41-4324-81b0-e829709adf08",
+    "title": "Review: The 52 Best Gifts for Grandparents",
+    "description": "The greatest gift for most grandparents may be spending time with their grandkids. The gifts ahead can enhance time spent together, or serve as meaningful tokens of appreciation over time and distance We’ve scoured our guides and polled our colleagues to find the very best things to delight grandparents, including a deluxe bird-watching station for…",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/gifts/best-gifts-for-grandparents/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-22T14:01:18.351Z",
+    "status": "pending",
+    "type": "review"
+  },
+  {
+    "id": "25797d07-c03f-4c54-8d24-74199f393ae6",
+    "title": "Review: The Best Ski and Snowboard Gloves",
+    "description": "Good ski or snowboard gloves will keep your hands warm while you’re standing in lift lines, riding chairlifts, and, of course, embracing gravity. Balancing warmth with dexterity and grippiness, good gloves also help you ski better. I skied with 25 pairs of gloves and mittens over 140 ski days, and I decided that the Black…",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-ski-and-snowboard-gloves/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "createdAt": "2026-10-22T14:01:18.351Z",
+    "status": "pending",
+    "type": "review"
+  }
+]
