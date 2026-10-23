@@ -2,6 +2,7 @@ import { guides, products } from '@/lib/mockData';
 import { notFound } from 'next/navigation';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
+import TopPickBadge from '@/components/TopPickBadge';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -47,15 +48,20 @@ export default async function GuideDetailPage({ params }: Props) {
       <section className="bg-gray-50 dark:bg-gray-900 rounded-2xl p-8 border border-gray-200 dark:border-gray-800">
         <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-8">Top Recommendations</h2>
         <div className="space-y-8">
-          {recommendedProducts.map(product => (
-            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center">
-              <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden">
+          {recommendedProducts.map((product, index) => (
+            <div key={product.id} className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-sm flex flex-col md:flex-row gap-6 items-center relative border border-gray-100 dark:border-gray-700">
+              {index === 0 && (
+                <div className="absolute -top-3 left-6">
+                  <TopPickBadge />
+                </div>
+              )}
+              <div className="w-full md:w-48 h-48 relative bg-gray-100 rounded-lg overflow-hidden flex-shrink-0 mt-2 md:mt-0">
                 <div
                   className="absolute inset-0 bg-cover bg-center"
                   style={{ backgroundImage: `url(${product.imageUrl})` }}
                 ></div>
               </div>
-              <div className="flex-grow">
+              <div className="flex-grow w-full">
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">{product.name}</h3>
                 <div className="flex items-center mb-4">
                    <span className="text-yellow-400 mr-1">★</span>
@@ -67,13 +73,13 @@ export default async function GuideDetailPage({ params }: Props) {
                   <div>
                     <h4 className="text-sm font-bold text-green-600 mb-1 uppercase tracking-tighter">Pros</h4>
                     <ul className="text-sm space-y-1">
-                      {product.pros.map((pro, i) => <li key={i} className="text-gray-600 dark:text-gray-400">• {pro}</li>)}
+                      {product.pros.map((pro: string, i: number) => <li key={i} className="text-gray-600 dark:text-gray-400">• {pro}</li>)}
                     </ul>
                   </div>
                   <div>
                     <h4 className="text-sm font-bold text-red-600 mb-1 uppercase tracking-tighter">Cons</h4>
                     <ul className="text-sm space-y-1">
-                      {product.cons.map((con, i) => <li key={i} className="text-gray-600 dark:text-gray-400">• {con}</li>)}
+                      {product.cons.map((con: string, i: number) => <li key={i} className="text-gray-600 dark:text-gray-400">• {con}</li>)}
                     </ul>
                   </div>
                 </div>

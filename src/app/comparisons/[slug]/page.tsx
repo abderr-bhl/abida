@@ -53,7 +53,7 @@ export default async function ComparisonDetailPage({ params }: Props) {
                  </td>
                ))}
             </tr>
-            {comparison.criteria.map((criterion, idx) => (
+            {comparison.criteria.map((criterion: string, idx: number) => (
               <tr key={idx}>
                 <td className="py-6 px-4 border-b border-gray-100 dark:border-gray-800 font-semibold">{criterion}</td>
                 {comparisonProducts.map(product => (

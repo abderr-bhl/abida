@@ -79,7 +79,7 @@ export default async function ReviewDetailPage({ params }: Props) {
          <div className="bg-green-50 p-8 rounded-2xl dark:bg-green-900/20">
             <h3 className="text-lg font-bold text-green-800 dark:text-green-400 mb-4">What We Loved</h3>
             <ul className="space-y-3">
-               {product.pros.map((pro, i) => (
+               {product.pros.map((pro: string, i: number) => (
                  <li key={i} className="flex items-start gap-3 text-green-700 dark:text-green-300">
                     <span className="mt-1">✓</span>
                     <span>{pro}</span>
@@ -90,7 +90,7 @@ export default async function ReviewDetailPage({ params }: Props) {
          <div className="bg-red-50 p-8 rounded-2xl dark:bg-red-900/20">
             <h3 className="text-lg font-bold text-red-800 dark:text-red-400 mb-4">What Could Be Better</h3>
             <ul className="space-y-3">
-               {product.cons.map((con, i) => (
+               {product.cons.map((con: string, i: number) => (
                  <li key={i} className="flex items-start gap-3 text-red-700 dark:text-red-300">
                     <span className="mt-1">✗</span>
                     <span>{con}</span>

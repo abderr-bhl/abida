@@ -16,7 +16,7 @@ export default function ComparisonsPage() {
               <span className="text-sm font-bold text-primary uppercase tracking-widest mb-2 block">Versus Battle</span>
               <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">{comp.title}</h2>
               <div className="flex flex-wrap gap-2">
-                 {comp.criteria.map((c, i) => (
+                 {comp.criteria.map((c: string, i: number) => (
                    <span key={i} className="bg-gray-100 text-gray-600 text-xs px-3 py-1 rounded-full dark:bg-gray-800 dark:text-gray-400">
                      {c}
                    </span>
