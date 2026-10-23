@@ -55,3 +55,14 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export interface BenchmarkTask {
+  id: string;
+  title: string;
+  description: string;
+  source: 'Wirecutter' | 'RTINGS' | 'Fallback';
+  sourceUrl?: string;
+  status: 'pending' | 'in_progress' | 'completed';
+  createdAt: string;
+  updatedAt: string;
+}
