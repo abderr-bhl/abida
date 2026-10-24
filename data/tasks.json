@@ -1,0 +1,92 @@
+[
+  {
+    "id": "edac42ab-30ef-4d88-81cf-67c2580bd57c",
+    "title": "Review: The 5 Things You Need to Know About the PHP Security Flaw Breaking the Internet",
+    "description": "The internet is underpinned by a programming language that is easily exploited. Here’s how to stay safe online.",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/news/php-security-flaw-20261023/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:07:15.575Z",
+    "actionRequired": "Evaluate Wirecutter coverage and write US market buyer's guide."
+  },
+  {
+    "id": "411703fa-370d-4335-83aa-49f21c872c30",
+    "title": "Review: The Best Ironing Board",
+    "description": "If you’ve ever used a cheap, wobbly ironing board, you know the unique frustration (and possible danger) of trying to tame a hot iron while wrinkle-busting. A solid board with a smooth cover and the right amount of padding makes ironing a cinch, safely. The Brabantia Ironing Board B is the best of more than…",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-ironing-board/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:07:15.575Z",
+    "actionRequired": "Evaluate Wirecutter coverage and write US market buyer's guide."
+  },
+  {
+    "id": "ddef853c-0e56-42bf-97da-934bff3a3f48",
+    "title": "Review: The Best Folding Chairs",
+    "description": "If you believe in the well-worn saying “the more, the merrier,” a reliable set of folding chairs can bring you the joy of bigger gatherings, even in a small space, whether that’s once a year for Thanksgiving or every Thursday for game night. The best folding chair should be compact enough to store, attractive enough…",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-folding-chairs/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:07:15.575Z",
+    "actionRequired": "Evaluate Wirecutter coverage and write US market buyer's guide."
+  },
+  {
+    "id": "66c2bbe3-1c03-4722-a18e-b30e3c4f5777",
+    "title": "Review: The 67 Best Gifts Under $10",
+    "description": "It’s easy enough to find a great gift when you have big bucks to spend. But what about things that cost less than $10? We’ve found dozens of gifts, all of them useful, vetted, and sure to be appreciated by nearly any lucky recipient. Highlights include utilitarian favorites, such as a handy kitchen tool and…",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/gifts/best-gifts-under-10/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:07:15.575Z",
+    "actionRequired": "Evaluate Wirecutter coverage and write US market buyer's guide."
+  },
+  {
+    "id": "037bf29a-2e40-4c9b-918d-758de198a74b",
+    "title": "Review: Your TV Might Be Listening to You. Here’s How to Stop It.",
+    "description": "Some higher-end TVs have microphones built in for voice control, much like a smart speaker. Here’s how to find them and turn them off.",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/advice/is-your-tv-listening-to-you/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:07:15.575Z",
+    "actionRequired": "Evaluate Wirecutter coverage and write US market buyer's guide."
+  },
+  {
+    "id": "e58fb687-f459-42d3-9ba6-ba1a83280552",
+    "title": "Review: The Best Noise-Canceling Headphones for Travel in 2025",
+    "description": "Competitive gap analysis: High consumer interest in ANC wireless headphones.",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones/",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:03:53.823Z",
+    "actionRequired": "Create comprehensive buyer guide comparing Sony WH-1000XM5 and Bose QuietComfort Ultra."
+  },
+  {
+    "id": "56cc5faa-b1c4-4e3f-be46-15841063f0bd",
+    "title": "Review: Best OLED TVs for Gaming and Home Theater",
+    "description": "Benchmarked RTINGS rating system for 4K 120Hz OLED televisions.",
+    "competitor": "RTINGS",
+    "url": "https://www.rtings.com/tv/reviews/best/by-type/oled",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:03:53.823Z",
+    "actionRequired": "Draft side-by-side spec comparison between LG C4 and Samsung S90D."
+  },
+  {
+    "id": "253832ff-2d17-4720-8aab-71fdf6f79897",
+    "title": "Guide: Best Robot Vacuums for Pet Hair and Hardwood Floors",
+    "description": "Monitored trending article on automated home cleaning solutions.",
+    "competitor": "Wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:03:53.823Z",
+    "actionRequired": "Update top picks for self-emptying robot vacuum cleaners with Amazon affiliate links."
+  },
+  {
+    "id": "e762d557-0107-4ef0-9228-402d86a6163e",
+    "title": "Review: Top Ergonomic Office Chairs for Remote Work",
+    "description": "Identified ergonomic desk setup gap in lumbar support category.",
+    "competitor": "RTINGS",
+    "url": "https://www.rtings.com/chair/reviews/best/office-chairs",
+    "status": "pending",
+    "createdAt": "2026-10-24T14:03:53.823Z",
+    "actionRequired": "Publish detailed review of Herman Miller Aeron vs Steelcase Gesture."
+  }
+]
