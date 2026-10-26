@@ -1,0 +1,52 @@
+[
+  {
+    "id": "9630c0e8-5006-4dc7-99fe-f3865851892d",
+    "title": "Review: The 5 Things You Need to Know About the PHP Security Flaw Breaking the Internet",
+    "description": "The internet is underpinned by a programming language that is easily exploited. Here’s how to stay safe online.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/news/php-security-flaw-20261023/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "category": "General Buying Guides",
+    "status": "pending",
+    "createdAt": "2026-10-26T13:59:27.392Z"
+  },
+  {
+    "id": "c3ef833c-b6f3-4fd4-a29a-dd32cc4772d7",
+    "title": "Review: The Best Ironing Board",
+    "description": "If you’ve ever used a cheap, wobbly ironing board, you know the unique frustration (and possible danger) of trying to tame a hot iron while wrinkle-busting. A solid board with a smooth cover and the right amount of padding makes ironing a cinch, safely. The Brabantia Ironing Board B is the best of more than…",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-ironing-board/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "category": "General Buying Guides",
+    "status": "pending",
+    "createdAt": "2026-10-26T13:59:27.392Z"
+  },
+  {
+    "id": "284d90af-960a-4430-ac8a-253c9aaacce0",
+    "title": "Review: The Best Folding Chairs",
+    "description": "If you believe in the well-worn saying “the more, the merrier,” a reliable set of folding chairs can bring you the joy of bigger gatherings, even in a small space, whether that’s once a year for Thanksgiving or every Thursday for game night. The best folding chair should be compact enough to store, attractive enough…",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-folding-chairs/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "category": "General Buying Guides",
+    "status": "pending",
+    "createdAt": "2026-10-26T13:59:27.392Z"
+  },
+  {
+    "id": "41880867-3fd8-4c26-8422-cccacc8f4c04",
+    "title": "Review: The 67 Best Gifts Under $10",
+    "description": "It’s easy enough to find a great gift when you have big bucks to spend. But what about things that cost less than $10? We’ve found dozens of gifts, all of them useful, vetted, and sure to be appreciated by nearly any lucky recipient. Highlights include utilitarian favorites, such as a handy kitchen tool and…",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/gifts/best-gifts-under-10/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "category": "General Buying Guides",
+    "status": "pending",
+    "createdAt": "2026-10-26T13:59:27.392Z"
+  },
+  {
+    "id": "12de6f0a-00cc-4ebd-aade-0ece97fc0730",
+    "title": "Review: Your TV Might Be Listening to You. Here’s How to Stop It.",
+    "description": "Some higher-end TVs have microphones built in for voice control, much like a smart speaker. Here’s how to find them and turn them off.",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/advice/is-your-tv-listening-to-you/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "competitor": "Wirecutter",
+    "category": "General Buying Guides",
+    "status": "pending",
+    "createdAt": "2026-10-26T13:59:27.392Z"
+  }
+]
