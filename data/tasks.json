@@ -1,0 +1,35 @@
+[
+  {
+    "id": "75f9ae3c-37f3-4061-99ec-c6a71015aa39",
+    "title": "Review: Top Noise-Canceling Headphones for US Travelers (2025)",
+    "description": "Competitive analysis of premium wireless active noise-canceling headphones comparing Sony, Bose, and Apple.",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-headphones/",
+    "status": "pending",
+    "createdAt": "2026-10-30T13:54:27.377Z",
+    "category": "Audio",
+    "priority": "high"
+  },
+  {
+    "id": "demo-task-1",
+    "title": "Review: Best Wireless Earbuds for iPhone and Android Users",
+    "description": "Competitor Wirecutter recently published an updated guide on ANC earbuds. Benchmark features and prices.",
+    "source": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-earbuds/",
+    "status": "pending",
+    "createdAt": "2026-10-30T13:51:18.626Z",
+    "category": "Audio",
+    "priority": "high"
+  },
+  {
+    "id": "demo-task-2",
+    "title": "Guide: Best Laptops for College Students in 2025",
+    "description": "Competitor RTINGS updated their student laptop recommendations. Compare battery life tests and value picks.",
+    "source": "RTINGS",
+    "sourceUrl": "https://www.rtings.com/laptop/reviews/best/by-usage/students",
+    "status": "in_progress",
+    "createdAt": "2026-10-29T13:51:18.627Z",
+    "category": "Computers",
+    "priority": "medium"
+  }
+]
