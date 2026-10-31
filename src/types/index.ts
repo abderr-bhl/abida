@@ -55,3 +55,35 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export type TaskStatus = 'pending' | 'in_progress' | 'completed' | 'dismissed';
+export type TaskPriority = 'low' | 'medium' | 'high';
+
+export interface BenchmarkTask {
+  id: string;
+  title: string;
+  description: string;
+  competitor: string;
+  sourceUrl: string;
+  category: string;
+  priority: TaskPriority;
+  status: TaskStatus;
+  createdAt: string;
+  updatedAt: string;
+}
+
+export interface CompetitorSource {
+  name: string;
+  feedUrl: string;
+  siteUrl: string;
+  category: string;
+}
+
+export interface CompetitorArticle {
+  title: string;
+  link: string;
+  pubDate?: string;
+  contentSnippet?: string;
+  competitor: string;
+  category: string;
+}
