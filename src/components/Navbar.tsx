@@ -7,39 +7,45 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex">
             <div className="flex-shrink-0 flex items-center">
-              <Link href="/" className="text-2xl font-bold text-primary">
-                ReviewGuid
+              <Link href="/" className="text-2xl font-black tracking-tight text-primary">
+                ReviewGuid<span className="text-[#FF9900]">.</span>
               </Link>
             </div>
-            <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+            <div className="hidden sm:ml-8 sm:flex sm:space-x-8">
               <Link
                 href="/guides"
-                className="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
+                className="border-transparent text-gray-600 hover:border-primary hover:text-primary dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold transition-colors"
               >
-                Guides
+                Buyer&apos;s Guides
               </Link>
               <Link
-                href="/blog"
-                className="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
+                href="/reviews"
+                className="border-transparent text-gray-600 hover:border-primary hover:text-primary dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold transition-colors"
               >
-                News
+                Reviews
               </Link>
               <Link
                 href="/comparisons"
-                className="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
+                className="border-transparent text-gray-600 hover:border-primary hover:text-primary dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold transition-colors"
               >
                 Comparisons
               </Link>
               <Link
-                href="/reviews"
-                className="border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700 dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
+                href="/blog"
+                className="border-transparent text-gray-600 hover:border-primary hover:text-primary dark:text-gray-300 dark:hover:text-white inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold transition-colors"
               >
-                Reviews
+                News
+              </Link>
+              <Link
+                href="/admin/tasks"
+                className="border-transparent text-amber-600 hover:border-amber-600 hover:text-amber-700 dark:text-amber-400 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold transition-colors"
+              >
+                Admin
               </Link>
             </div>
           </div>
           <div className="hidden sm:ml-6 sm:flex sm:items-center">
-            <button className="bg-primary text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700">
+            <button className="bg-primary text-white px-4 py-2 rounded-md text-sm font-semibold hover:bg-blue-700 transition-colors shadow-xs">
               Subscribe
             </button>
           </div>

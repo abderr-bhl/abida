@@ -1,0 +1,72 @@
+[
+  {
+    "id": "f9b5fd6b-1dfe-45da-874f-9548bd41ffea",
+    "title": "Review: Sony WH-1000XM5 Full Audio and ANC Lab Review",
+    "description": "Competitor RTINGS published: \"Sony WH-1000XM5 Full Audio and ANC Lab Review\". Benchmarked for our US audience.",
+    "type": "review",
+    "competitor": "RTINGS",
+    "competitorUrl": "https://www.rtings.com/headphones/reviews/sony/wh-1000xm5-wireless",
+    "competitorTitle": "Sony WH-1000XM5 Full Audio and ANC Lab Review",
+    "category": "Audio",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2026-11-01T14:07:20.005Z",
+    "updatedAt": "2026-11-01T14:07:20.005Z"
+  },
+  {
+    "id": "5a6c0a4d-d04c-45cc-8bc3-ac06253a05e0",
+    "title": "Comparison: LG C4 OLED vs Samsung S90D: Which Premium 4K TV Wins?",
+    "description": "Benchmark comparison published on RTINGS. Create side-by-side comparison table and recommendations for ReviewGuid.",
+    "type": "comparison",
+    "competitor": "RTINGS",
+    "competitorUrl": "https://www.rtings.com/tv/reviews/lg/c4-oled-vs-samsung-s90d",
+    "competitorTitle": "LG C4 OLED vs Samsung S90D: Which Premium 4K TV Wins?",
+    "category": "Displays & TVs",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-11-01T14:07:20.004Z",
+    "updatedAt": "2026-11-01T14:07:20.004Z"
+  },
+  {
+    "id": "b5247ad9-775d-4897-abfa-4ea16fdc44dc",
+    "title": "Guide: Best Audio Guide (Inspired by Wirecutter (NYTimes))",
+    "description": "Competitor recently published or updated: \"The Best Wireless Noise-Cancelling Headphones of 2026\". Create a comprehensive buying guide targeting Amazon US buyers.",
+    "type": "guide",
+    "competitor": "Wirecutter (NYTimes)",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-wireless-headphones/",
+    "competitorTitle": "The Best Wireless Noise-Cancelling Headphones of 2026",
+    "category": "Audio",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-11-01T14:07:19.877Z",
+    "updatedAt": "2026-11-01T14:07:19.877Z"
+  },
+  {
+    "id": "b6e8d2e7-1829-4984-8138-1db46da80eba",
+    "title": "Guide: Best Home & Office Guide (Inspired by Wirecutter (NYTimes))",
+    "description": "Competitor recently published or updated: \"The Best Ergonomic Office Chairs for Working From Home\". Create a comprehensive buying guide targeting Amazon US buyers.",
+    "type": "guide",
+    "competitor": "Wirecutter (NYTimes)",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-office-chair/",
+    "competitorTitle": "The Best Ergonomic Office Chairs for Working From Home",
+    "category": "Home & Office",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-11-01T14:07:19.877Z",
+    "updatedAt": "2026-11-01T14:07:19.877Z"
+  },
+  {
+    "id": "bf59bc0a-c12b-4b3c-a948-4bc9aa4659f6",
+    "title": "Guide: Best Home & Office Guide (Inspired by Wirecutter (NYTimes))",
+    "description": "Competitor recently published or updated: \"The Best Robot Vacuums for Pet Hair and Hardwood Floors\". Create a comprehensive buying guide targeting Amazon US buyers.",
+    "type": "guide",
+    "competitor": "Wirecutter (NYTimes)",
+    "competitorUrl": "https://www.nytimes.com/wirecutter/reviews/best-robot-vacuum/",
+    "competitorTitle": "The Best Robot Vacuums for Pet Hair and Hardwood Floors",
+    "category": "Home & Office",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2026-11-01T14:07:19.877Z",
+    "updatedAt": "2026-11-01T14:07:19.877Z"
+  }
+]
