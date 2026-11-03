@@ -55,3 +55,20 @@ export interface NewsPost {
   author: string;
   imageUrl: string;
 }
+
+export type BenchmarkTaskStatus = 'pending' | 'in_progress' | 'completed';
+export type BenchmarkPriority = 'low' | 'medium' | 'high';
+
+export interface BenchmarkTask {
+  id: string;
+  title: string;
+  description: string;
+  competitor: string;
+  competitorUrl: string;
+  contentType: 'guide' | 'review' | 'comparison' | 'news';
+  targetCategory: string;
+  priority: BenchmarkPriority;
+  status: BenchmarkTaskStatus;
+  detectedAt: string;
+  updatedAt: string;
+}
