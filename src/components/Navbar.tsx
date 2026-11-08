@@ -36,9 +36,21 @@ export default function Navbar() {
               >
                 Reviews
               </Link>
+              <Link
+                href="/admin/tasks"
+                className="border-transparent text-indigo-600 hover:text-indigo-800 dark:text-indigo-400 dark:hover:text-indigo-200 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-semibold"
+              >
+                Admin
+              </Link>
             </div>
           </div>
-          <div className="hidden sm:ml-6 sm:flex sm:items-center">
+          <div className="hidden sm:ml-6 sm:flex sm:items-center space-x-3">
+            <Link
+              href="/admin/tasks"
+              className="text-xs bg-gray-100 hover:bg-gray-200 text-gray-700 dark:bg-gray-800 dark:text-gray-200 dark:hover:bg-gray-700 px-3 py-1.5 rounded font-medium transition-colors"
+            >
+              Benchmark Tasks
+            </Link>
             <button className="bg-primary text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700">
               Subscribe
             </button>
