@@ -1,0 +1,122 @@
+[
+  {
+    "id": "96690321-da8d-40aa-b850-b49f00a2d7ce",
+    "title": "Review: The 31 Best Gifts for People Who Love Food and Drinks",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"The 31 Best Gifts for People Who Love Food and Drinks\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/gifts/best-gifts-for-foodies/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_guide",
+    "status": "in_progress",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "bb7e4761-ee9a-4594-9e85-85b25d6b5372",
+    "title": "Review: Wirecutter’s 36 Most Luxurious (and Pricey) Gifts",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"Wirecutter’s 36 Most Luxurious (and Pricey) Gifts\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-luxurious-gifts/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_review",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "78d16398-ae70-4817-9e9d-4f3eaa59b22a",
+    "title": "Review: All the Very Best Black Friday Deals We’ve Already Found",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"All the Very Best Black Friday Deals We’ve Already Found\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/money/best-early-black-friday-deals-2026/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_guide",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "43bd9570-4047-4cf9-a1a4-e7848eeaf316",
+    "title": "Review: The Best Kitchen Scale",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"The Best Kitchen Scale\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-kitchen-scale/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_guide",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "6c5c63a5-f6a7-4650-9da8-62c51b29af13",
+    "title": "Review: This $15 Speed Cube Is A Soothing Fidget Toy — And Excellent Gift",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"This $15 Speed Cube Is A Soothing Fidget Toy — And Excellent Gift\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/moyu-speed-cube-review/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_review",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "0af4d881-634b-4320-b2b4-ebeec363b664",
+    "title": "Review: The Best Floor Lamps",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"The Best Floor Lamps\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-floor-lamps-under-300/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_guide",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "540e5d87-e3de-4f2e-999b-b3a1f9143f21",
+    "title": "Review: We Drank 15 of Costco’s Kirkland Signature Wines. Here Are the Ones That Delighted Us.",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"We Drank 15 of Costco’s Kirkland Signature Wines. Here Are the Ones That Delighted Us.\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-costco-wine/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_review",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "49abf63c-aa3d-4e3d-adff-dd27d86b27b9",
+    "title": "Review: The 49 Best Stocking Stuffer Ideas for Kids",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"The 49 Best Stocking Stuffer Ideas for Kids\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/gifts/stocking-stuffers-for-kids/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_guide",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "e718c9bc-2ab7-4527-a920-ca5d27b5e7be",
+    "title": "Review: Turns Out Everyone Has the Same Gifting Questions. Here Are Our Answers.",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"Turns Out Everyone Has the Same Gifting Questions. Here Are Our Answers.\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/the-gift-most-popular-gifting-questions-20261106/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_review",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  },
+  {
+    "id": "a2ff9d45-a067-4857-9e39-4a7ccfd34c0b",
+    "title": "Review: The Best Shop Vacs (or Wet Dry Vacs)",
+    "description": "Automated competitor benchmark detected trending coverage from Wirecutter: \"The Best Shop Vacs (or Wet Dry Vacs)\". Research US market pricing on Amazon, evaluate specs, and draft our proprietary buyer's guide.",
+    "sourceCompetitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/a-great-shop-vacuum-or-wet-dry-vac/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "targetCategory": "Electronics & Home",
+    "suggestedAction": "write_guide",
+    "status": "pending",
+    "priority": "high",
+    "detectedAt": "2026-11-09T14:09:00.253Z"
+  }
+]
