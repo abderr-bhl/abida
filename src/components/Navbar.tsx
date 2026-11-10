@@ -38,7 +38,13 @@ export default function Navbar() {
               </Link>
             </div>
           </div>
-          <div className="hidden sm:ml-6 sm:flex sm:items-center">
+          <div className="hidden sm:ml-6 sm:flex sm:items-center space-x-4">
+            <Link
+              href="/admin/tasks"
+              className="text-gray-600 hover:text-primary dark:text-gray-300 dark:hover:text-white text-sm font-medium"
+            >
+              Admin
+            </Link>
             <button className="bg-primary text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700">
               Subscribe
             </button>
