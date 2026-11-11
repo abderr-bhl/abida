@@ -1,0 +1,57 @@
+[
+  {
+    "id": "38d4e3e2-e468-48d8-897f-f6115134091c",
+    "title": "Review: All the Very Best Black Friday Deals We’ve Already Found",
+    "description": "Holiday sales are already upon us. Across the internet, retailers are bombarding shoppers with early Black Friday savings on everything from mattresses to Macbooks. We urge you to make sure that any promised discount is actually a meaningful one. Prices are on the rise. In some product categories, like laptops, this year’s sale prices will…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/money/best-early-black-friday-deals-2026/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "category": "Electronics & Home",
+    "createdAt": "2026-11-11T13:45:10.650Z",
+    "priority": "medium"
+  },
+  {
+    "id": "b0aa4567-58b2-4443-a9d0-033ed515fb72",
+    "title": "Review: The 41 Best Holiday Gifts for 6-Year-Olds",
+    "description": "Most 6-year-olds have strongly defined opinions about what they do and don’t like. Kids this age are also becoming increasingly aware of what’s cool among their peers at any given moment (hello, Pokémon and slime!). It can be tempting to stick with things you already know your 6-year-old is interested in. Yet there’s also value…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/gifts/best-toys-gifts-for-6-year-olds/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "category": "Electronics & Home",
+    "createdAt": "2026-11-11T13:45:10.650Z",
+    "priority": "medium"
+  },
+  {
+    "id": "1dd166c8-91fb-4745-9e50-3371e5b09f52",
+    "title": "Review: The Best iPhone and Android Photography Accessories",
+    "description": "I own a lot of pricey, nerdy, highly specialized camera gear. And as someone who writes about cameras for a living, I get to test even more. But when I’m out and about doing errands, taking my dog for a walk, or foraging in the woods, I still tend to take pictures with my phone.…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-iphone-android-photography-accessories/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "category": "Electronics & Home",
+    "createdAt": "2026-11-11T13:45:10.650Z",
+    "priority": "medium"
+  },
+  {
+    "id": "02f656ac-e5f0-4347-a9ac-d14d03c7a98f",
+    "title": "Review: The Best Digital Notebooks",
+    "description": "For writers, there’s nothing quite like putting pen to paper. You feel each scratch of the notebook and every smear of ink. A digital notebook takes that familiarity and adds modern convenience. Those hundreds of ideas, notes, and scribbles live in one convenient, portable device — where they’re searchable, convertible to digital text, and easily…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-digital-notebooks/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "category": "Electronics & Home",
+    "createdAt": "2026-11-11T13:45:10.650Z",
+    "priority": "medium"
+  },
+  {
+    "id": "39b99391-c4a0-4e07-ab16-df6e5e583836",
+    "title": "Review: The Best Kids Craft Subscription Boxes",
+    "description": "Craft-based subscription boxes offer a fun way to tap into a child’s creativity. The best ones deliver quality activities that entertain kids, ideally with minimal adult planning — and without your having to go to the art-supply store. And they should provide an easy way for kids to explore new topics, as well as topics…",
+    "competitor": "Wirecutter",
+    "sourceUrl": "https://www.nytimes.com/wirecutter/reviews/best-kids-craft-subscription-boxes/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed",
+    "status": "pending",
+    "category": "Electronics & Home",
+    "createdAt": "2026-11-11T13:45:10.650Z",
+    "priority": "medium"
+  }
+]
